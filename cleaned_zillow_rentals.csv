@@ -1,0 +1,751 @@
+,street_address,zipcode,latitude,longitude,num_bedrooms,num_bathrooms,rent_price,sqft,type,URL
+2,2606 Wilson St APT 1106,78704,30.23788,-97.759271,2.0,2.5,4950.0,1500.0, Townhouse,https://www.zillow.com/homedetails/2606-Wilson-St-APT-1106-Austin-TX-78704/119628335_zpid/
+3,5926 Fairlane Dr,78757,30.339021317073172,-97.75023173170732,3.0,2.0,3995.0,1900.0, SingleFamily,https://www.zillow.com/homedetails/5926-Fairlane-Dr-Austin-TX-78757/29345818_zpid/
+5,10821 Redmond Rd,78739,30.188593042480196,-97.8886410948783,4.0,2.5,3500.0,2824.0, SingleFamily,https://www.zillow.com/homedetails/10821-Redmond-Rd-Austin-TX-78739/29504818_zpid/
+6,3815 Guadalupe St APT 211,78751,30.303225222222224,-97.73771222222223,2.0,1.0,1750.0,823.0, Apartment,https://www.zillow.com/homedetails/3815-Guadalupe-St-APT-211-Austin-TX-78751/83821844_zpid/
+7,2200 San Gabriel St APT 301,78705,30.285609,-97.748187,2.0,2.0,1775.0,1000.0, Condo,https://www.zillow.com/homedetails/2200-San-Gabriel-St-APT-301-Austin-TX-78705/2092509377_zpid/
+10,641 W 31st 1/2 St,78705,,,2.0,1.5,2250.0,1008.0, Townhouse,https://www.zillow.com/homedetails/641-W-31st-1-2-St-Austin-TX-78705/2100290745_zpid/
+12,1605 Walsh Tarlton Ln,78746,30.268344343758343,-97.80495490919706,3.0,2.0,3600.0,1600.0, SingleFamily,https://www.zillow.com/homedetails/1605-Walsh-Tarlton-Ln-Austin-TX-78746/29326335_zpid/
+15,5801 Libyan Dr #A,78745,30.209921499754333,-97.79129506999828,2.0,2.0,1650.0,930.0, Apartment,https://www.zillow.com/homedetails/5801-Libyan-Dr-A-Austin-TX-78745/2095277647_zpid/
+17,7712 Islander Dr,78749,30.212550216402626,-97.84816355829935,3.0,2.0,2495.0,1568.0, SingleFamily,https://www.zillow.com/homedetails/7712-Islander-Dr-Austin-TX-78749/29490300_zpid/
+18,6601 Galindo St,78741,30.228647,-97.697536,2.0,1.0,1640.0,672.0, SingleFamily,https://www.zillow.com/homedetails/6601-Galindo-St-Austin-TX-78741/29464033_zpid/
+19,4328 Airport Blvd #A,78722,30.299775,-97.712212,3.0,2.5,3250.0,1410.0, Townhouse,https://www.zillow.com/homedetails/4328-Airport-Blvd-A-Austin-TX-78722/2098685721_zpid/
+22,205 Park Ln,78704,30.24953550583359,-97.7483005472742,3.0,3.0,7500.0,2400.0, SingleFamily,https://www.zillow.com/homedetails/205-Park-Ln-Austin-TX-78704/29458729_zpid/
+23,9006 Pin Brush Dr,78748,30.17600918367347,-97.80735193877551,4.0,2.5,3000.0,2305.0, SingleFamily,https://www.zillow.com/homedetails/9006-Pin-Brush-Dr-Austin-TX-78748/305429668_zpid/
+24,(Undisclosed Address),78717,30.17600918367347,-97.80735193877551,4.0,3.0,2950.0,2817.0, SingleFamily,https://www.zillow.com/homedetails/Austin-TX-78717/88025266_zpid/
+26,1110 Morrow St UNIT B,78757,30.345916833333334,-97.71878694444445,2.0,1.0,3000.0,830.0, Apartment,https://www.zillow.com/homedetails/1110-Morrow-St-UNIT-B-Austin-TX-78757/305427986_zpid/
+27,11205 Wyola Bend,78717,30.490996885499477,-97.79594210685458,3.0,3.0,2800.0,1965.0, SingleFamily,https://www.zillow.com/homedetails/11205-Wyola-Bnd-Austin-TX-78717/111970888_zpid/
+29,1401 Lorrain St APT D,78703,30.280385,-97.754985,1.0,1.0,1650.0,550.0, Apartment,https://www.zillow.com/homedetails/1401-Lorrain-St-APT-D-Austin-TX-78703/2064081668_zpid/
+31,8605 Sturmer St,78747,30.151700959595956,-97.74807033333333,3.0,2.5,2920.0,2528.0, SingleFamily,https://www.zillow.com/homedetails/8605-Sturmer-St-Austin-TX-78747/83814845_zpid/
+33,10600 Seguin St,78754,30.3563123,-97.6509254,4.0,2.0,2480.0,1659.0, SingleFamily,https://www.zillow.com/homedetails/10600-Seguin-St-Austin-TX-78754/337144272_zpid/
+34,11012 Alhambra Dr,78759,30.401312531221638,-97.7319913042829,4.0,2.0,3100.0,1730.0, SingleFamily,https://www.zillow.com/homedetails/11012-Alhambra-Dr-Austin-TX-78759/29437233_zpid/
+37,10407 Burmaster Ln,78750,30.447567447006403,-97.80592469360296,3.0,2.0,1990.0,1049.0, SingleFamily,https://www.zillow.com/homedetails/10407-Burmaster-Ln-Austin-TX-78750/29569215_zpid/
+39,3303 Govalle Ave #2,78702,30.265597,-97.70133042424243,3.0,2.5,4950.0,1421.0, Apartment,https://www.zillow.com/homedetails/3303-Govalle-Ave-2-Austin-TX-78702/2072849606_zpid/
+40,4553 Guadalupe St #B311,78751,30.31230925,-97.7316502402303,1.0,1.0,1095.0,600.0, Apartment,https://www.zillow.com/homedetails/4553-Guadalupe-St-B311-Austin-TX-78751/2076886450_zpid/
+41,5820 Harper Park Dr,78735,30.238816030383052,-97.8510052784753,3.0,2.5,5000.0,2454.0, SingleFamily,https://www.zillow.com/homedetails/5820-Harper-Park-Dr-Austin-TX-78735/2070950660_zpid/
+46,6503 Cooper Ln,78745,30.20046557142857,-97.78975304081632,3.0,1.0,2800.0,950.0, SingleFamily,https://www.zillow.com/homedetails/6503-Cooper-Ln-Austin-TX-78745/29494602_zpid/
+47,5409 Sunshine Dr,78756,30.323462181818183,-97.73126381818182,3.0,2.0,3000.0,1100.0, SingleFamily,https://www.zillow.com/homedetails/5409-Sunshine-Dr-Austin-TX-78756/29410797_zpid/
+52,3106 Wickham Ln,78725,30.23237395082199,-97.59387580744269,3.0,2.0,1969.0,1378.0, SingleFamily,https://www.zillow.com/homedetails/3106-Wickham-Ln-Austin-TX-78725/70345613_zpid/
+53,2212 Lanier Dr,78757,30.361618,-97.727637,2.0,1.0,1795.0,1000.0, Townhouse,https://www.zillow.com/homedetails/2212-Lanier-Dr-Austin-TX-78757/29426436_zpid/
+54,11601 Century Oaks Ter FLOOR 1-ID39,78758,30.402686,-97.725126,1.0,1.0,2740.0,718.0, Apartment,https://www.zillow.com/homedetails/11601-Century-Oaks-Ter-FLOOR-1-ID39-Austin-TX-78758/2063443471_zpid/
+56,1502 Aquifer Cv #B,78746,,,3.0,2.0,4195.0,1269.0, Townhouse,https://www.zillow.com/homedetails/1502-Aquifer-Cv-B-Austin-TX-78746/29326356_zpid/
+57,124 Cumberland Rd APT 204,78704,,,2.0,3.0,3400.0,1476.0, Townhouse,https://www.zillow.com/homedetails/124-Cumberland-Rd-APT-204-Austin-TX-78704/124843849_zpid/
+58,13030 Staton Dr,78727,,,3.0,2.0,2099.0,1094.0, SingleFamily,https://www.zillow.com/homedetails/13030-Staton-Dr-Austin-TX-78727/29443200_zpid/
+59,5109 Martin Ave #A,78751,,,2.0,2.0,2900.0,884.0, Apartment,https://www.zillow.com/homedetails/5109-Martin-Ave-A-Austin-TX-78751/2063417743_zpid/
+61,2210 Holly St #B,78702,,,2.0,2.0,2300.0,828.0, Apartment,https://www.zillow.com/homedetails/2210-Holly-St-B-Austin-TX-78702/2064209597_zpid/
+63,2912 Windcliff Way,78748,,,4.0,2.0,3100.0,2074.0, SingleFamily,https://www.zillow.com/homedetails/2912-Windcliff-Way-Austin-TX-78748/58317488_zpid/
+65,48 East Ave #2106,78701,,,1.0,1.0,3995.0,783.0, Apartment,https://www.zillow.com/homedetails/48-East-Ave-2106-Austin-TX-78701/2077005165_zpid/
+66,4131 Travis Country Cir,78735,,,4.0,3.5,6495.0,2990.0, SingleFamily,https://www.zillow.com/homedetails/4131-Travis-Country-Cir-Austin-TX-78735/29323195_zpid/
+68,9414 Us Highway 183 S,78747,,,3.0,2.0,3000.0,1599.0, SingleFamily,https://www.zillow.com/homedetails/9414-Us-Highway-183-S-Austin-TX-78747/29471370_zpid/
+70,2502 Leon St APT 302,78705,,,2.0,2.0,1900.0,925.0, Apartment,https://www.zillow.com/homedetails/2502-Leon-St-APT-302-Austin-TX-78705/251033232_zpid/
+77,610 1/2 W 30th St,78705,,,1.0,1.0,1445.0,400.0, Apartment,https://www.zillow.com/homedetails/610-1-2-W-30th-St-Austin-TX-78705/2066425109_zpid/
+78,1301 Luna St,78721,,,3.0,2.0,5885.0,1100.0, SingleFamily,https://www.zillow.com/homedetails/1301-Luna-St-Austin-TX-78721/29390234_zpid/
+80,7501 Meadowview Ln,78752,,,3.0,2.0,2700.0,1519.0, SingleFamily,https://www.zillow.com/homedetails/7501-Meadowview-Ln-Austin-TX-78752/29416457_zpid/
+83,811 W James St,78704,,,3.0,3.5,13500.0,2452.0, SingleFamily,https://www.zillow.com/homedetails/811-W-James-St-Austin-TX-78704/29322608_zpid/
+84,2400 Southland Dr #A,78704,,,2.0,2.0,2440.0,915.0, Apartment,https://www.zillow.com/homedetails/2400-Southland-Dr-A-Austin-TX-78704/2084087114_zpid/
+85,904 W 21st St APT 218,78705,,,3.0,2.0,2550.0,1103.0, Apartment,https://www.zillow.com/homedetails/904-W-21st-St-APT-218-Austin-TX-78705/62605585_zpid/
+86,9206 Sommerland Way,78749,,,3.0,2.5,3195.0,2081.0, SingleFamily,https://www.zillow.com/homedetails/9206-Sommerland-Way-Austin-TX-78749/29496594_zpid/
+87,5402 Brompton Cir,78745,,,3.0,1.0,3200.0,1160.0, Apartment,https://www.zillow.com/homedetails/5402-Brompton-Cir-Austin-TX-78745/29485839_zpid/
+90,6817 Walkup Ln,78747,,,3.0,2.5,2150.0,2068.0, SingleFamily,https://www.zillow.com/homedetails/6817-Walkup-Ln-Austin-TX-78747/70342400_zpid/
+91,3702 Far View Dr #B,78730,,,1.0,1.0,1700.0,350.0, Apartment,https://www.zillow.com/homedetails/3702-Far-View-Dr-B-Austin-TX-78730/2065724027_zpid/
+92,2709 Crest Ave,78702,,,3.0,2.0,4000.0,1418.0, SingleFamily,https://www.zillow.com/homedetails/2709-Crest-Ave-Austin-TX-78702/80087292_zpid/
+93,8620 Deja Ave,78747,,,3.0,2.5,2150.0,1665.0, SingleFamily,https://www.zillow.com/homedetails/8620-Deja-Ave-Austin-TX-78747/70334804_zpid/
+94,4732 Palisade Dr,78731,,,3.0,2.5,3800.0,2406.0, SingleFamily,https://www.zillow.com/homedetails/4732-Palisade-Dr-Austin-TX-78731/29346364_zpid/
+96,5906 Laird Dr,78757,,,1.0,1.0,2050.0,806.0, SingleFamily,https://www.zillow.com/homedetails/5906-Laird-Dr-Austin-TX-78757/29414176_zpid/
+97,510 W 18th St,78701,,,2.0,2.5,4995.0,1270.0, Townhouse,https://www.zillow.com/homedetails/510-W-18th-St-Austin-TX-78701/2065697034_zpid/
+98,800 W 3rd St,78701,,,1.0,1.0,2173.0,756.0, Apartment,https://www.zillow.com/homedetails/800-W-3rd-St-Austin-TX-78701/2063447836_zpid/
+99,2512 Berwyn Cir,78745,,,3.0,2.0,2700.0,2000.0, SingleFamily,https://www.zillow.com/homedetails/2512-Berwyn-Cir-Austin-TX-78745/29483103_zpid/
+101,7400 Tonka Ln,78744,,,4.0,2.0,2400.0,1632.0, SingleFamily,https://www.zillow.com/homedetails/7400-Tonka-Ln-Austin-TX-78744/305433340_zpid/
+102,2402 Rio Grande St APT 1,78705,,,1.0,1.0,1100.0,319.0, Condo,https://www.zillow.com/homedetails/2402-Rio-Grande-St-APT-1-Austin-TX-78705/2110841865_zpid/
+105,6112 Calmar Cv #A,78721,,,3.0,2.5,3600.0,1922.0, Condo,https://www.zillow.com/homedetails/6112-Calmar-Cv-A-Austin-TX-78721/2070987418_zpid/
+106,107 W Crestland Dr,78752,,,3.0,2.0,2700.0,1144.0, SingleFamily,https://www.zillow.com/homedetails/107-W-Crestland-Dr-Austin-TX-78752/29416481_zpid/
+107,7609 Crossmeadow Dr,78750,,,3.0,2.0,3900.0,2158.0, SingleFamily,https://www.zillow.com/homedetails/7609-Crossmeadow-Dr-Austin-TX-78750/58299481_zpid/
+109,9903 Ullswater Ln,78750,,,4.0,3.5,4250.0,3570.0, SingleFamily,https://www.zillow.com/homedetails/9903-Ullswater-Ln-Austin-TX-78750/29370765_zpid/
+110,2312 Marcus Abrams Blvd,78748,,,4.0,2.5,2800.0,2400.0, SingleFamily,https://www.zillow.com/homedetails/2312-Marcus-Abrams-Blvd-Austin-TX-78748/70335387_zpid/
+111,(Undisclosed Address),78729,,,1.0,1.0,1500.0,900.0, SingleFamily,https://www.zillow.com/homedetails/Austin-TX-78729/29557309_zpid/
+112,1101 San Augustine Dr #B,78733,,,1.0,1.0,1750.0,450.0, Apartment,https://www.zillow.com/homedetails/1101-San-Augustine-Dr-B-Austin-TX-78733/2067783556_zpid/
+116,4709 Lake Champlain Ln #163,78754,,,3.0,2.5,2300.0,1861.0, Apartment,https://www.zillow.com/homedetails/4709-Lake-Champlain-Ln-163-Austin-TX-78754/63836032_zpid/
+119,2806 Dillion Hill Dr,78745,,,2.0,1.0,2200.0,880.0, SingleFamily,https://www.zillow.com/homedetails/2806-Dillion-Hill-Dr-Austin-TX-78745/58314693_zpid/
+122,(Undisclosed Address),78702,,,2.0,1.0,2850.0,936.0, Apartment,https://www.zillow.com/homedetails/Austin-TX-78702/83819381_zpid/
+124,4414 Diane Dr #C,78745,,,1.0,1.0,1695.0,740.0, MultiFamily,https://www.zillow.com/homedetails/4414-Diane-Dr-C-Austin-TX-78745/2064351734_zpid/
+125,300 Jack Ryan Ln,78748,,,4.0,3.5,3500.0,3517.0, SingleFamily,https://www.zillow.com/homedetails/300-Jack-Ryan-Ln-Austin-TX-78748/83824157_zpid/
+126,1000 E 8th St,78702,,,5.0,5.0,11500.0,3198.0, SingleFamily,https://www.zillow.com/homedetails/1000-E-8th-St-Austin-TX-78702/29385955_zpid/
+129,11024 Reliance Creek Dr,78754,,,4.0,2.5,4200.0,2149.0, SingleFamily,https://www.zillow.com/homedetails/11024-Reliance-Creek-Dr-Austin-TX-78754/70338580_zpid/
+131,1900 Simond Ave FLOOR 2-ID61,78723,,,1.0,1.0,2750.0,730.0, Apartment,https://www.zillow.com/homedetails/1900-Simond-Ave-FLOOR-2-ID61-Austin-TX-78723/2063429390_zpid/
+132,807 W 25th St APT 309,78705,,,2.0,1.0,1650.0,688.0, Condo,https://www.zillow.com/homedetails/807-W-25th-St-APT-309-Austin-TX-78705/29394148_zpid/
+133,706 W 24th St APT 202,78705,,,2.0,2.0,1795.0,800.0, Apartment,https://www.zillow.com/homedetails/706-W-24th-St-APT-202-Austin-TX-78705/29394159_zpid/
+134,9002 Lodge Ct,78758,,,4.0,2.0,4250.0,1494.0, SingleFamily,https://www.zillow.com/homedetails/9002-Lodge-Ct-Austin-TX-78758/29427462_zpid/
+135,6304 Zadock Woods Dr,78749,,,4.0,2.5,16500.0,3464.0, SingleFamily,https://www.zillow.com/homedetails/6304-Zadock-Woods-Dr-Austin-TX-78749/29481457_zpid/
+140,7906 Parliament Pl,78759,,,3.0,2.0,2200.0,1456.0, SingleFamily,https://www.zillow.com/homedetails/7906-Parliament-Pl-Austin-TX-78759/29550519_zpid/
+143,3206 Locke Ln,78704,,,3.0,2.0,3570.0,1648.0, SingleFamily,https://www.zillow.com/homedetails/3206-Locke-Ln-Austin-TX-78704/29476796_zpid/
+145,2801 Rio Grande St APT 102,78705,,,2.0,2.0,1850.0,816.0, Apartment,https://www.zillow.com/homedetails/2801-Rio-Grande-St-APT-102-Austin-TX-78705/29395573_zpid/
+147,7602 Darby Swank Vw,78744,,,3.0,2.5,2750.0,1771.0, SingleFamily,https://www.zillow.com/homedetails/7602-Darby-Swank-Vw-Austin-TX-78744/2068967518_zpid/
+148,1818 W 11th St #A,78703,,,2.0,1.0,2795.0,900.0, Apartment,https://www.zillow.com/homedetails/1818-W-11th-St-A-Austin-TX-78703/2063438014_zpid/
+150,3405 Kissman Dr,78728,,,3.0,2.5,2800.0,2062.0, SingleFamily,https://www.zillow.com/homedetails/3405-Kissman-Dr-Austin-TX-78728/29454171_zpid/
+153,4611 Unity Cir,78731,,,3.0,3.5,5950.0,2931.0, Townhouse,https://www.zillow.com/homedetails/4611-Unity-Cir-Austin-TX-78731/2070971257_zpid/
+157,11920 Meadowfire Dr,78758,,,3.0,2.0,3000.0,1769.0, SingleFamily,https://www.zillow.com/homedetails/11920-Meadowfire-Dr-Austin-TX-78758/29437444_zpid/
+158,2807 E 22nd St #B,78722,,,4.0,3.5,3900.0,1732.0, MultiFamily,https://www.zillow.com/homedetails/2807-E-22nd-St-B-Austin-TX-78722/2119407758_zpid/
+159,12302 Burr Ridge Dr #A,78729,,,2.0,1.0,1800.0,1000.0, Apartment,https://www.zillow.com/homedetails/12302-Burr-Ridge-Dr-A-Austin-TX-78729/2064177480_zpid/
+163,11607 Bell Ave,78759,,,4.0,3.0,4500.0,2600.0, SingleFamily,https://www.zillow.com/homedetails/11607-Bell-Ave-Austin-TX-78759/29367314_zpid/
+165,5417 Gooding Dr,78744,,,3.0,2.0,2195.0,1462.0, SingleFamily,https://www.zillow.com/homedetails/5417-Gooding-Dr-Austin-TX-78744/145551619_zpid/
+166,10604 Topperwein Dr #B,78758,,,2.0,1.0,1695.0,1120.0, Apartment,https://www.zillow.com/homedetails/10604-Topperwein-Dr-B-Austin-TX-78758/2126967399_zpid/
+167,5800 W Gate Blvd #B,78745,,,3.0,2.0,2100.0,1740.0, Townhouse,https://www.zillow.com/homedetails/5800-W-Gate-Blvd-B-Austin-TX-78745/2131398599_zpid/
+170,4007 Beaconsdale Dr,78727,,,3.0,2.0,6000.0,2000.0, SingleFamily,https://www.zillow.com/homedetails/4007-Beaconsdale-Dr-Austin-TX-78727/58307303_zpid/
+173,1608 Sunterro,78727,,,4.0,2.5,2795.0,2387.0, SingleFamily,https://www.zillow.com/homedetails/1608-Sunterro-Austin-TX-78727/58307190_zpid/
+174,2606 Salado St APT 302,78705,,,4.0,3.0,3395.0,1500.0, Townhouse,https://www.zillow.com/homedetails/2606-Salado-St-APT-302-Austin-TX-78705/2088535189_zpid/
+176,5708 Spoke Ct,78744,,,2.0,1.5,1800.0,992.0, Townhouse,https://www.zillow.com/homedetails/5708-Spoke-Ct-Austin-TX-78744/29500217_zpid/
+180,2602 E 6th St UNIT 2,78702,,,2.0,2.0,3399.0,1000.0, Apartment,https://www.zillow.com/homedetails/2602-E-6th-St-UNIT-2-Austin-TX-78702/305430484_zpid/
+182,1906 Casa Grande Dr #A,78733,,,2.0,1.0,3500.0,1300.0, Townhouse,https://www.zillow.com/homedetails/1906-Casa-Grande-Dr-A-Austin-TX-78733/2063538859_zpid/
+183,5614 Clay Ave #1,78756,,,3.0,2.0,4250.0,1500.0, Apartment,https://www.zillow.com/homedetails/5614-Clay-Ave-1-Austin-TX-78756/305431166_zpid/
+184,(Undisclosed Address),78730,,,4.0,3.0,20000.0,3800.0, SingleFamily,https://www.zillow.com/homedetails/Austin-TX-78730/29343580_zpid/
+185,2328B Hartford Rd #B,78703,,,2.0,1.0,2250.0,1400.0, Apartment,https://www.zillow.com/homedetails/2328B-Hartford-Rd-B-Austin-TX-78703/2076717395_zpid/
+188,4405 Jackson Ave #3101,78731,,,2.0,2.0,3700.0,1400.0, Condo,https://www.zillow.com/homedetails/4405-Jackson-Ave-3101-Austin-TX-78731/337142888_zpid/
+189,3005 Matador Dr #A,78741,,,2.0,1.0,2595.0,790.0, Townhouse,https://www.zillow.com/homedetails/3005-Matador-Dr-A-Austin-TX-78741/2063455940_zpid/
+190,11611 Buttonwood Dr,78759,,,3.0,2.0,2700.0,2388.0, SingleFamily,https://www.zillow.com/homedetails/11611-Buttonwood-Dr-Austin-TX-78759/29369289_zpid/
+191,5401 Porsche Ln,78749,,,4.0,2.0,3500.0,2086.0, SingleFamily,https://www.zillow.com/homedetails/5401-Porsche-Ln-Austin-TX-78749/29478877_zpid/
+192,9305 Bentley Garner Ln,78748,,,3.0,2.0,2500.0,1600.0, SingleFamily,https://www.zillow.com/homedetails/9305-Bentley-Garner-Ln-Austin-TX-78748/119617598_zpid/
+194,1047 Broadview St,78723,,,2.0,1.0,2000.0,840.0, SingleFamily,https://www.zillow.com/homedetails/1047-Broadview-St-Austin-TX-78723/29409776_zpid/
+198,2100 Holly St #B,78702,,,2.0,2.5,3099.0,1150.0, Apartment,https://www.zillow.com/homedetails/2100-Holly-St-B-Austin-TX-78702/89551283_zpid/
+199,5808 Baythorne Dr,78747,,,3.0,3.0,2700.0,1961.0, SingleFamily,https://www.zillow.com/homedetails/5808-Baythorne-Dr-Austin-TX-78747/241930985_zpid/
+200,2209 Garden St,78702,,,3.0,2.0,5700.0,1600.0, SingleFamily,https://www.zillow.com/homedetails/2209-Garden-St-Austin-TX-78702/29382330_zpid/
+203,8601 Dandelion Trl,78745,,,4.0,2.5,2500.0,1931.0, SingleFamily,https://www.zillow.com/homedetails/8601-Dandelion-Trl-Austin-TX-78745/29501471_zpid/
+204,8405 Red Willow Dr,78736,,,3.0,2.5,2895.0,1918.0, SingleFamily,https://www.zillow.com/homedetails/8405-Red-Willow-Dr-Austin-TX-78736/29477752_zpid/
+206,2725 Dulce Ln UNIT 234,78704,,,1.0,1.0,2400.0,945.0, Apartment,https://www.zillow.com/homedetails/2725-Dulce-Ln-UNIT-234-Austin-TX-78704/124835894_zpid/
+208,3200 Montopolis Dr,78744,,,2.0,2.0,1418.0,902.0, Townhouse,https://www.zillow.com/homedetails/3200-Montopolis-Dr-Austin-TX-78744/125806604_zpid/
+209,1504 Pasadena Dr,78757,,,2.0,1.0,3000.0,1100.0, SingleFamily,https://www.zillow.com/homedetails/1504-Pasadena-Dr-Austin-TX-78757/29419031_zpid/
+210,2720 Oak Springs Dr,78702,,,3.0,2.5,3200.0,1444.0, SingleFamily,https://www.zillow.com/homedetails/2720-Oak-Springs-Dr-Austin-TX-78702/29388665_zpid/
+213,6228 Ronee Leah Dr,78724,,,3.0,2.0,2200.0,1511.0, SingleFamily,https://www.zillow.com/homedetails/6228-Ronee-Leah-Dr-Austin-TX-78724/2071554043_zpid/
+214,11004 Charger Way,78724,,,3.0,2.0,2545.0,2021.0, SingleFamily,https://www.zillow.com/homedetails/11004-Charger-Way-Austin-TX-78724/2076687406_zpid/
+215,1309 Hazleton Cv,78753,,,4.0,2.5,2450.0,2450.0, SingleFamily,https://www.zillow.com/homedetails/1309-Hazleton-Cv-Austin-TX-78753/331621651_zpid/
+217,9913 Jasmine Creek Dr,78726,,,5.0,3.0,3650.0,3050.0, SingleFamily,https://www.zillow.com/homedetails/9913-Jasmine-Creek-Dr-Austin-TX-78726/29375000_zpid/
+218,13230 Dime Box Trl,78729,,,4.0,2.5,2800.0,2222.0, SingleFamily,https://www.zillow.com/homedetails/13230-Dime-Box-Trl-Austin-TX-78729/2065681396_zpid/
+219,4703 Saloma Pl,78749,,,3.0,3.0,2600.0,1543.0, SingleFamily,https://www.zillow.com/homedetails/4703-Saloma-Pl-Austin-TX-78749/29490992_zpid/
+221,3301 Breckenridge Dr,78744,,,3.0,2.0,2600.0,1626.0, SingleFamily,https://www.zillow.com/homedetails/3301-Breckenridge-Dr-Austin-TX-78744/305433374_zpid/
+222,2510 San Gabriel St APT 303,78705,,,4.0,2.0,2800.0,1043.0, Condo,https://www.zillow.com/homedetails/2510-San-Gabriel-St-APT-303-Austin-TX-78705/29393639_zpid/
+223,1311 Fort Branch Blvd,78721,,,3.0,3.0,4000.0,2154.0, SingleFamily,https://www.zillow.com/homedetails/1311-Fort-Branch-Blvd-Austin-TX-78721/29390339_zpid/
+224,703 Brownlee Cir #A,78703,,,2.0,1.0,4000.0,1250.0, Apartment,https://www.zillow.com/homedetails/703-Brownlee-Cir-A-Austin-TX-78703/2065571136_zpid/
+225,5701 Kleberg Trl,78747,,,3.0,2.0,2300.0,1646.0, SingleFamily,https://www.zillow.com/homedetails/5701-Kleberg-Trl-Austin-TX-78747/80106490_zpid/
+228,1403 Norwalk Ln APT 110,78703,,,2.0,2.0,1995.0,975.0, Apartment,https://www.zillow.com/homedetails/1403-Norwalk-Ln-APT-110-Austin-TX-78703/2071989157_zpid/
+229,(Undisclosed Address),78704,,,4.0,3.0,10000.0,2800.0, SingleFamily,https://www.zillow.com/homedetails/Austin-TX-78704/29321987_zpid/
+230,712 E Dean Keeton St APT A,78705,,,2.0,1.0,2400.0,1200.0, Apartment,https://www.zillow.com/homedetails/712-E-Dean-Keeton-St-APT-A-Austin-TX-78705/2081030068_zpid/
+232,10709 Dimitrios Dr,78747,,,3.0,2.0,2350.0,1362.0, SingleFamily,https://www.zillow.com/homedetails/10709-Dimitrios-Dr-Austin-TX-78747/305429076_zpid/
+233,14001 Avery Ranch Blvd UNIT 2604,78717,,,4.0,2.5,2450.0,2002.0, Condo,https://www.zillow.com/homedetails/14001-Avery-Ranch-Blvd-UNIT-2604-Austin-TX-78717/116081619_zpid/
+234,1108 Baylor St,78703,,,2.0,2.0,1995.0,1400.0, SingleFamily,https://www.zillow.com/homedetails/1108-Baylor-St-Austin-TX-78703/2092596529_zpid/
+241,1104 Baylor St,78703,,,2.0,1.0,2275.0,1200.0, SingleFamily,https://www.zillow.com/homedetails/1104-Baylor-St-Austin-TX-78703/29327652_zpid/
+243,11118 Wandering Way #B,78754,,,2.0,2.0,3200.0,1944.0, MultiFamily,https://www.zillow.com/homedetails/11118-Wandering-Way-B-Austin-TX-78754/2063453380_zpid/
+245,8405 Romney Rd,78748,,,4.0,2.0,2700.0,1262.0, SingleFamily,https://www.zillow.com/homedetails/8405-Romney-Rd-Austin-TX-78748/29508535_zpid/
+247,1502 Bouldin Ave,78704,,,2.0,1.0,3500.0,1050.0, SingleFamily,https://www.zillow.com/homedetails/1502-Bouldin-Ave-Austin-TX-78704/29321964_zpid/
+249,15017 Iveans Way,78717,,,4.0,3.5,3750.0,2939.0, SingleFamily,https://www.zillow.com/homedetails/15017-Iveans-Way-Austin-TX-78717/124151584_zpid/
+250,3417 Willowrun Dr APT B,78704,,,2.0,1.0,1949.0,811.0, Apartment,https://www.zillow.com/homedetails/3417-Willowrun-Dr-APT-B-Austin-TX-78704/305433883_zpid/
+252,5101 E 51st St,78723,,,1.0,1.0,1670.0,730.0, Apartment,https://www.zillow.com/homedetails/5101-E-51st-St-Austin-TX-78723/2066770737_zpid/
+253,15404 Belfin Dr,78717,,,5.0,4.0,3926.0,4200.0, SingleFamily,https://www.zillow.com/homedetails/15404-Belfin-Dr-Austin-TX-78717/88021676_zpid/
+254,13431 Athens Trl,78729,,,3.0,2.5,2400.0,1720.0, SingleFamily,https://www.zillow.com/homedetails/13431-Athens-Trl-Austin-TX-78729/29595472_zpid/
+255,1205 Short Hackberry St,78702,,,3.0,2.5,7000.0,2223.0, SingleFamily,https://www.zillow.com/homedetails/1205-Short-Hackberry-St-Austin-TX-78702/29386742_zpid/
+258,10725 Domain Dr FLOOR 3-ID15,78758,,,1.0,1.0,3320.0,758.0, Apartment,https://www.zillow.com/homedetails/10725-Domain-Dr-FLOOR-3-ID15-Austin-TX-78758/2067968040_zpid/
+259,1119 Mission Rdg,78704,,,3.0,1.0,3500.0,1150.0, SingleFamily,https://www.zillow.com/homedetails/1119-Mission-Rdg-Austin-TX-78704/29459605_zpid/
+260,11024 Short Springs Dr,78754,,,4.0,2.0,2200.0,1518.0, SingleFamily,https://www.zillow.com/homedetails/11024-Short-Springs-Dr-Austin-TX-78754/80093939_zpid/
+261,4529 Ruiz St,78723,,,3.0,2.5,3500.0,1539.0, SingleFamily,https://www.zillow.com/homedetails/4529-Ruiz-St-Austin-TX-78723/120897127_zpid/
+263,11512 Sandy Loam Trl,78750,,,3.0,2.0,2100.0,1475.0, SingleFamily,https://www.zillow.com/homedetails/11512-Sandy-Loam-Trl-Austin-TX-78750/29566270_zpid/
+265,10216 Snapdragon Dr,78739,,,4.0,2.5,3095.0,2436.0, SingleFamily,https://www.zillow.com/homedetails/10216-Snapdragon-Dr-Austin-TX-78739/29504637_zpid/
+267,5200 Buffalo Pass,78745,,,3.0,2.0,4950.0,1750.0, SingleFamily,https://www.zillow.com/homedetails/5200-Buffalo-Pass-Austin-TX-78745/58313667_zpid/
+269,8808 Whitter Dr #B,78747,,,3.0,3.0,2750.0,1844.0, Townhouse,https://www.zillow.com/homedetails/8808-Whitter-Dr-B-Austin-TX-78747/2064305539_zpid/
+273,4816 Norman Trl,78749,,,3.0,2.0,3000.0,2148.0, SingleFamily,https://www.zillow.com/homedetails/4816-Norman-Trl-Austin-TX-78749/58315544_zpid/
+274,2920 Balfour Falls Ln,78748,,,4.0,2.0,3195.0,2364.0, SingleFamily,https://www.zillow.com/homedetails/2920-Balfour-Falls-Ln-Austin-TX-78748/64762430_zpid/
+275,2405 Ann Arbor Ave,78704,,,3.0,3.5,7000.0,2200.0, Townhouse,https://www.zillow.com/homedetails/2405-Ann-Arbor-Ave-Austin-TX-78704/2065663398_zpid/
+276,8407 Rockwood Ln,78757,,,3.0,2.0,2995.0,1405.0, SingleFamily,https://www.zillow.com/homedetails/8407-Rockwood-Ln-Austin-TX-78757/29428442_zpid/
+278,707 Spofford St,78704,,,3.0,3.0,10500.0,2431.0, SingleFamily,https://www.zillow.com/homedetails/707-Spofford-St-Austin-TX-78704/29325495_zpid/
+279,2115 Oxford Ave #B,78704,,,2.0,1.5,1995.0,1075.0, Apartment,https://www.zillow.com/homedetails/2115-Oxford-Ave-B-Austin-TX-78704/2098053193_zpid/
+280,6513 Cascada Dr,78750,,,2.0,2.5,2975.0,1830.0, SingleFamily,https://www.zillow.com/homedetails/6513-Cascada-Dr-Austin-TX-78750/29358841_zpid/
+283,1108 Euphoria Bend #26,78702,,,3.0,2.5,3550.0,1729.0, Apartment,https://www.zillow.com/homedetails/1108-Euphoria-Bnd-26-Austin-TX-78702/145652849_zpid/
+285,910 W 25th St,78705,,,1.0,1.0,900.0,642.0, SingleFamily,https://www.zillow.com/homedetails/910-W-25th-St-Austin-TX-78705/2103778639_zpid/
+288,3018 S 1st St #A,78704,,,1.0,1.0,1375.0,118.0, Apartment,https://www.zillow.com/homedetails/3018-S-1st-St-A-Austin-TX-78704/2070791852_zpid/
+290,8501 Alum Rock Dr,78747,,,3.0,3.0,2600.0,1586.0, SingleFamily,https://www.zillow.com/homedetails/8501-Alum-Rock-Dr-Austin-TX-78747/58311800_zpid/
+292,1507 Pease Rd,78703,,,1.0,1.0,1500.0,600.0, Apartment,https://www.zillow.com/homedetails/1507-Pease-Rd-Austin-TX-78703/29331528_zpid/
+293,8206 Polar Dr,78757,,,3.0,2.0,2849.0,1684.0, SingleFamily,https://www.zillow.com/homedetails/8206-Polar-Dr-Austin-TX-78757/29424901_zpid/
+295,3446 Willowrun Dr APT B,78704,,,1.0,1.0,1425.0,600.0, Apartment,https://www.zillow.com/homedetails/3446-Willowrun-Dr-APT-B-Austin-TX-78704/2096804380_zpid/
+296,1209 Blair Way,78704,,,3.0,3.0,3900.0,1765.0, SingleFamily,https://www.zillow.com/homedetails/1209-Blair-Way-Austin-TX-78704/83819523_zpid/
+298,8501 Moccasin Path,78736,,,4.0,3.0,3995.0,2330.0, SingleFamily,https://www.zillow.com/homedetails/8501-Moccasin-Path-Austin-TX-78736/145656053_zpid/
+299,1318 Morgan Ln,78704,,,2.0,2.0,2800.0,1150.0, SingleFamily,https://www.zillow.com/homedetails/1318-Morgan-Ln-Austin-TX-78704/110539774_zpid/
+301,12217 Donington Dr,78753,,,3.0,2.0,1950.0,1138.0, SingleFamily,https://www.zillow.com/homedetails/12217-Donington-Dr-Austin-TX-78753/29435184_zpid/
+302,1906 Morrow St,78757,,,3.0,2.0,3500.0,1652.0, SingleFamily,https://www.zillow.com/homedetails/1906-Morrow-St-Austin-TX-78757/29420332_zpid/
+303,4812 Oldfort Hill Dr,78723,,,4.0,2.0,3699.0,1495.0, SingleFamily,https://www.zillow.com/homedetails/4812-Oldfort-Hill-Dr-Austin-TX-78723/64460608_zpid/
+306,2710 Zaragosa St UNIT A,78702,,,3.0,3.0,6000.0,1925.0, SingleFamily,https://www.zillow.com/homedetails/2710-Zaragosa-St-UNIT-A-Austin-TX-78702/2077109650_zpid/
+308,1504 Oak Heights Dr APT B,78741,,,3.0,3.0,3500.0,3000.0, Townhouse,https://www.zillow.com/homedetails/1504-Oak-Heights-Dr-APT-B-Austin-TX-78741/2105706697_zpid/
+310,5608 Toscana Ave,78724,,,3.0,2.0,1995.0,1287.0, SingleFamily,https://www.zillow.com/homedetails/5608-Toscana-Ave-Austin-TX-78724/64444399_zpid/
+312,1702 S Lamar Blvd UNIT 10,78704,,,2.0,2.5,4000.0,1695.0, Townhouse,https://www.zillow.com/homedetails/1702-S-Lamar-Blvd-UNIT-10-Austin-TX-78704/94642549_zpid/
+313,4412 Russell Dr #A,78745,,,4.0,3.5,4695.0,2300.0, Apartment,https://www.zillow.com/homedetails/4412-Russell-Dr-A-Austin-TX-78745/2136852882_zpid/
+315,1611 Astor Pl,78721,,,3.0,2.0,4000.0,1700.0, SingleFamily,https://www.zillow.com/homedetails/1611-Astor-Pl-Austin-TX-78721/29392533_zpid/
+320,8900 Edmundsbury Dr,78747,,,3.0,2.5,2295.0,2068.0, SingleFamily,https://www.zillow.com/homedetails/8900-Edmundsbury-Dr-Austin-TX-78747/111373552_zpid/
+322,517 E Annie St,78704,,,2.0,1.0,4500.0,1145.0, SingleFamily,https://www.zillow.com/homedetails/517-E-Annie-St-Austin-TX-78704/29459313_zpid/
+323,(Undisclosed Address),78744,,,3.0,2.0,3000.0,1266.0, SingleFamily,https://www.zillow.com/homedetails/Austin-TX-78744/305433291_zpid/
+324,408 Ramble Ln,78745,,,4.0,2.0,3200.0,1438.0, SingleFamily,https://www.zillow.com/homedetails/408-Ramble-Ln-Austin-TX-78745/29487913_zpid/
+325,1933 Antone St,78723,,,4.0,3.5,4800.0,2600.0, SingleFamily,https://www.zillow.com/homedetails/1933-Antone-St-Austin-TX-78723/80090379_zpid/
+327,2001 Parker Ln APT 112,78741,,,3.0,2.5,2950.0,1385.0, Apartment,https://www.zillow.com/homedetails/2001-Parker-Ln-APT-112-Austin-TX-78741/29461734_zpid/
+328,10908 Gonzales Ranger Pass,78754,,,4.0,3.0,2350.0,2372.0, SingleFamily,https://www.zillow.com/homedetails/10908-Gonzales-Ranger-Pass-Austin-TX-78754/331623265_zpid/
+329,(Undisclosed Address),78703,,,1.0,1.0,2500.0,500.0, SingleFamily,https://www.zillow.com/homedetails/Austin-TX-78703/2064252747_zpid/
+330,2301 Bluebonnet Ln #2,78704,,,3.0,3.5,5500.0,2162.0, Condo,https://www.zillow.com/homedetails/2301-Bluebonnet-Ln-2-Austin-TX-78704/145656931_zpid/
+331,5705 Oakclaire Dr,78735,,,3.0,2.0,3500.0,1546.0, SingleFamily,https://www.zillow.com/homedetails/5705-Oakclaire-Dr-Austin-TX-78735/29475709_zpid/
+332,2400 Winsted Ln,78703,,,5.0,4.0,10000.0,3900.0, SingleFamily,https://www.zillow.com/homedetails/2400-Winsted-Ln-Austin-TX-78703/249889674_zpid/
+333,2003 Wilson St UNIT 2,78704,,,2.0,3.5,6250.0,2234.0, Townhouse,https://www.zillow.com/homedetails/2003-Wilson-St-UNIT-2-Austin-TX-78704/2088506354_zpid/
+334,1126 Chicon St #A,78702,,,3.0,2.5,2750.0,1344.0, Apartment,https://www.zillow.com/homedetails/1126-Chicon-St-A-Austin-TX-78702/2077515059_zpid/
+337,4702 Gray Fox Dr,78759,,,3.0,2.0,2400.0,1204.0, SingleFamily,https://www.zillow.com/homedetails/4702-Gray-Fox-Dr-Austin-TX-78759/29438274_zpid/
+341,204 E 30th St #101,78705,,,1.0,1.0,1295.0,450.0, Apartment,https://www.zillow.com/homedetails/204-E-30th-St-101-Austin-TX-78705/2070923051_zpid/
+343,13800 Lyndhurst St,78717,,,4.0,3.0,2595.0,1912.0, Apartment,https://www.zillow.com/homedetails/13800-Lyndhurst-St-Austin-TX-78717/243342797_zpid/
+344,7504 Tovar Dr,78729,,,4.0,3.0,2645.0,1984.0, SingleFamily,https://www.zillow.com/homedetails/7504-Tovar-Dr-Austin-TX-78729/29591667_zpid/
+345,2508 Quarry Rd APT C,78703,,,3.0,2.5,4200.0,1480.0, SingleFamily,https://www.zillow.com/homedetails/2508-Quarry-Rd-APT-C-Austin-TX-78703/29332238_zpid/
+346,8505 Spearman Dr,78757,,,4.0,2.0,3300.0,1628.0, SingleFamily,https://www.zillow.com/homedetails/8505-Spearman-Dr-Austin-TX-78757/29426644_zpid/
+347,700 1/2 Hearn St,78703,,,1.0,1.0,1495.0,480.0, Apartment,https://www.zillow.com/homedetails/700-1-2-Hearn-St-Austin-TX-78703/2083262974_zpid/
+348,405 E 32nd St APT B,78705,,,2.0,2.0,2595.0,1050.0, Townhouse,https://www.zillow.com/homedetails/405-E-32nd-St-APT-B-Austin-TX-78705/2063470565_zpid/
+350,3313 Minnie St #B,78745,,,3.0,2.5,2490.0,1814.0, Townhouse,https://www.zillow.com/homedetails/3313-Minnie-St-B-Austin-TX-78745/89547423_zpid/
+352,7302 Bluntleaf Cv,78750,,,4.0,3.0,5000.0,2258.0, SingleFamily,https://www.zillow.com/homedetails/7302-Bluntleaf-Cv-Austin-TX-78750/29359083_zpid/
+355,7308 Ferndale Cir,78745,,,3.0,2.0,4000.0,1755.0, SingleFamily,https://www.zillow.com/homedetails/7308-Ferndale-Cir-Austin-TX-78745/29501431_zpid/
+356,7301 Providence Ave,78752,,,3.0,2.5,3100.0,1450.0, SingleFamily,https://www.zillow.com/homedetails/7301-Providence-Ave-Austin-TX-78752/29413703_zpid/
+359,2801 Cornish Cir,78745,,,3.0,2.0,3200.0,1300.0, SingleFamily,https://www.zillow.com/homedetails/2801-Cornish-Cir-Austin-TX-78745/58314623_zpid/
+360,1208 Stobaugh St APT A,78757,,,3.0,2.5,3495.0,1758.0, Apartment,https://www.zillow.com/homedetails/1208-Stobaugh-St-APT-A-Austin-TX-78757/305428349_zpid/
+363,7601 Woodstone Cv #B,78749,,,2.0,2.0,1995.0,2070.0, MultiFamily,https://www.zillow.com/homedetails/7601-Woodstone-Cv-B-Austin-TX-78749/29493924_zpid/
+364,6505 Columbia Oaks Ct #A,78759,,,2.0,1.0,1600.0,1000.0, Apartment,https://www.zillow.com/homedetails/6505-Columbia-Oaks-Ct-A-Austin-TX-78759/2091995987_zpid/
+365,742 Gunter St #A,78702,,,3.0,2.0,3075.0,1750.0, Townhouse,https://www.zillow.com/homedetails/742-Gunter-St-A-Austin-TX-78702/2067412031_zpid/
+366,1411 Berene Ave,78721,,,3.0,2.0,3200.0,1250.0, SingleFamily,https://www.zillow.com/homedetails/1411-Berene-Ave-Austin-TX-78721/29391348_zpid/
+368,13428 Capadocia Cv,78727,,,4.0,2.5,3500.0,2200.0, SingleFamily,https://www.zillow.com/homedetails/13428-Capadocia-Cv-Austin-TX-78727/29446326_zpid/
+372,2417 Never Bend Cv,78746,,,6.0,5.0,13900.0,5064.0, Apartment,https://www.zillow.com/homedetails/2417-Never-Bend-Cv-Austin-TX-78746/29341369_zpid/
+377,5900 Emerald Forest Dr #A,78745,,,3.0,2.0,2199.0,1309.0, Apartment,https://www.zillow.com/homedetails/5900-Emerald-Forest-Dr-A-Austin-TX-78745/2128621069_zpid/
+379,9201 Brodie Ln UNIT 201,78748,,,1.0,1.5,1775.0,1088.0, Apartment,https://www.zillow.com/homedetails/9201-Brodie-Ln-UNIT-201-Austin-TX-78748/121658806_zpid/
+380,3801 S Congress Ave #L416,78704,,,2.0,2.0,2720.0,1221.0, Apartment,https://www.zillow.com/homedetails/3801-S-Congress-Ave-L416-Austin-TX-78704/2063502613_zpid/
+384,10905 Defender Trl,78754,,,4.0,2.5,2500.0,2231.0, SingleFamily,https://www.zillow.com/homedetails/10905-Defender-Trl-Austin-TX-78754/2082075616_zpid/
+386,6005 Hogan Ave,78741,,,3.0,1.0,2100.0,902.0, SingleFamily,https://www.zillow.com/homedetails/6005-Hogan-Ave-Austin-TX-78741/29461810_zpid/
+387,1405 Canyon Edge Dr,78733,,,3.0,2.5,5025.0,2480.0, SingleFamily,https://www.zillow.com/homedetails/1405-Canyon-Edge-Dr-Austin-TX-78733/89548645_zpid/
+397,203 Raindance Cv,78737,,,3.0,2.5,3400.0,2964.0, SingleFamily,https://www.zillow.com/homedetails/203-Raindance-Cv-Austin-TX-78737/111964785_zpid/
+399,935 La Posada Dr #237,78752,,,2.0,2.0,1650.0,849.0, Apartment,https://www.zillow.com/homedetails/935-La-Posada-Dr-237-Austin-TX-78752/241935535_zpid/
+400,2103 Ann Arbor Ave #A,78704,,,3.0,2.0,3200.0,1250.0, Apartment,https://www.zillow.com/homedetails/2103-Ann-Arbor-Ave-A-Austin-TX-78704/2084198697_zpid/
+402,2952 Higgins St,78722,,,3.0,2.0,3550.0,1228.0, SingleFamily,https://www.zillow.com/homedetails/2952-Higgins-St-Austin-TX-78722/29392278_zpid/
+403,1314 Newning Ave #B,78704,,,2.0,2.5,4300.0,1586.0, Condo,https://www.zillow.com/homedetails/1314-Newning-Ave-B-Austin-TX-78704/70348842_zpid/
+406,5204 Nuckols Crossing Rd #A,78744,,,2.0,2.0,1600.0,884.0, Apartment,https://www.zillow.com/homedetails/5204-Nuckols-Crossing-Rd-A-Austin-TX-78744/2071210665_zpid/
+407,7924 Tusman Dr,78735,,,5.0,4.0,5200.0,3094.0, SingleFamily,https://www.zillow.com/homedetails/7924-Tusman-Dr-Austin-TX-78735/80106307_zpid/
+408,11510 Walnut Ridge Dr #B,78753,,,3.0,2.0,1300.0,1300.0, Apartment,https://www.zillow.com/homedetails/11510-Walnut-Ridge-Dr-B-Austin-TX-78753/2081705768_zpid/
+409,6533 E Hill Dr,78731,,,3.0,3.5,5500.0,2407.0, Townhouse,https://www.zillow.com/homedetails/6533-E-Hill-Dr-Austin-TX-78731/125889582_zpid/
+410,4500 Atlantis Dr,78725,,,2.0,1.0,1800.0,700.0, SingleFamily,https://www.zillow.com/homedetails/4500-Atlantis-Dr-Austin-TX-78725/125752497_zpid/
+413,709 Jewell St,78704,,,4.0,3.0,10000.0,2316.0, SingleFamily,https://www.zillow.com/homedetails/709-Jewell-St-Austin-TX-78704/64572066_zpid/
+417,2311 Longview St,78705,,,4.0,4.0,7600.0,1614.0, SingleFamily,https://www.zillow.com/homedetails/2311-Longview-St-Austin-TX-78705/29331783_zpid/
+420,5623 Woodrow Ave,78756,,,1.0,1.0,1250.0,405.0, Apartment,https://www.zillow.com/homedetails/5623-Woodrow-Ave-Austin-TX-78756/29412436_zpid/
+421,2400 Mission Hill Dr #103,78741,,,2.0,1.5,1595.0,985.0, Apartment,https://www.zillow.com/homedetails/2400-Mission-Hill-Dr-103-Austin-TX-78741/2070448324_zpid/
+422,10510 Turner Dr,78753,,,4.0,2.0,2300.0,1400.0, SingleFamily,https://www.zillow.com/homedetails/10510-Turner-Dr-Austin-TX-78753/29430161_zpid/
+426,302 N Lamar Blvd FLOOR 3-ID25,78703,,,1.0,1.0,2940.0,691.0, Apartment,https://www.zillow.com/homedetails/302-N-Lamar-Blvd-FLOOR-3-ID25-Austin-TX-78703/2064136244_zpid/
+427,2607 Wilson St #B,78704,,,2.0,2.5,3850.0,1100.0, Townhouse,https://www.zillow.com/homedetails/2607-Wilson-St-B-Austin-TX-78704/124836286_zpid/
+429,300 Lightsey Rd UNIT A,78704,,,5.0,3.0,6200.0,2178.0, Apartment,https://www.zillow.com/homedetails/300-Lightsey-Rd-UNIT-A-Austin-TX-78704/2074672766_zpid/
+430,8700 Alum Rock Dr,78747,,,3.0,2.5,2665.0,2372.0, SingleFamily,https://www.zillow.com/homedetails/8700-Alum-Rock-Dr-Austin-TX-78747/80108188_zpid/
+431,4706 Sagebrush Cir #A,78745,,,3.0,2.0,2395.0,1336.0, Townhouse,https://www.zillow.com/homedetails/4706-Sagebrush-Cir-A-Austin-TX-78745/2086219131_zpid/
+432,3605 Colorado High Ave,78744,,,4.0,3.5,2800.0,2394.0, SingleFamily,https://www.zillow.com/homedetails/3605-Colorado-High-Ave-Austin-TX-78744/145656818_zpid/
+433,701 The High Rd #A,78746,,,2.0,1.5,2500.0,1150.0, Apartment,https://www.zillow.com/homedetails/701-The-High-Rd-A-Austin-TX-78746/2098172406_zpid/
+434,11301 Jollyville Rd APT B2,78759,,,2.0,2.0,1900.0,983.0, Apartment,https://www.zillow.com/homedetails/11301-Jollyville-Rd-APT-B2-Austin-TX-78759/2066574992_zpid/
+435,1704 Constanta Dr,78753,,,3.0,2.5,2595.0,2417.0, SingleFamily,https://www.zillow.com/homedetails/1704-Constanta-Dr-Austin-TX-78753/145654898_zpid/
+436,14033 Turkey Hollow Trl,78717,,,3.0,2.5,2750.0,2040.0, SingleFamily,https://www.zillow.com/homedetails/14033-Turkey-Hollow-Trl-Austin-TX-78717/89652738_zpid/
+437,615 W North Loop Blvd #B3,78751,,,3.0,1.0,2100.0,1100.0, Apartment,https://www.zillow.com/homedetails/615-W-North-Loop-Blvd-B3-Austin-TX-78751/2080658264_zpid/
+439,1411 Ridgehaven Dr,78723,,,3.0,2.0,2500.0,1334.0, SingleFamily,https://www.zillow.com/homedetails/1411-Ridgehaven-Dr-Austin-TX-78723/29406980_zpid/
+441,1404 Cometa St,78721,,,3.0,2.0,3850.0,1847.0, SingleFamily,https://www.zillow.com/homedetails/1404-Cometa-St-Austin-TX-78721/29391146_zpid/
+442,7004 Cut Plains Trl,78726,,,4.0,2.5,3295.0,2596.0, SingleFamily,https://www.zillow.com/homedetails/7004-Cut-Plains-Trl-Austin-TX-78726/2065419347_zpid/
+443,9906 Dorset Dr,78753,,,3.0,2.0,2400.0,1240.0, SingleFamily,https://www.zillow.com/homedetails/9906-Dorset-Dr-Austin-TX-78753/29425802_zpid/
+444,11305 Avering Ln,78754,,,3.0,2.0,2300.0,1980.0, SingleFamily,https://www.zillow.com/homedetails/11305-Avering-Ln-Austin-TX-78754/29421890_zpid/
+445,9824 Timber Ridge Pass,78733,,,3.0,2.0,3495.0,1700.0, SingleFamily,https://www.zillow.com/homedetails/9824-Timber-Ridge-Pass-Austin-TX-78733/29343816_zpid/
+446,7103 Circle S Rd #A,78745,,,4.0,2.0,2950.0,2000.0, Apartment,https://www.zillow.com/homedetails/7103-Circle-S-Rd-A-Austin-TX-78745/2088790944_zpid/
+448,8116 Exmoor Dr #B,78757,,,2.0,1.0,2100.0,842.0, Townhouse,https://www.zillow.com/homedetails/8116-Exmoor-Dr-B-Austin-TX-78757/2110688212_zpid/
+452,3505 Fitzroy Ave,78748,,,5.0,3.0,3150.0,3217.0, SingleFamily,https://www.zillow.com/homedetails/3505-Fitzroy-Ave-Austin-TX-78748/70332576_zpid/
+454,6501 E Hill Dr APT 102,78731,,,2.0,1.5,1900.0,1080.0, Apartment,https://www.zillow.com/homedetails/6501-E-Hill-Dr-APT-102-Austin-TX-78731/29347776_zpid/
+457,1208 Maple Ave UNIT B,78702,,,2.0,1.0,1850.0,825.0, Apartment,https://www.zillow.com/homedetails/1208-Maple-Ave-UNIT-B-Austin-TX-78702/2079666734_zpid/
+458,4803 Travis Country Cir,78735,,,5.0,3.0,4575.0,2757.0, SingleFamily,https://www.zillow.com/homedetails/4803-Travis-Country-Cir-Austin-TX-78735/29475432_zpid/
+459,6405 Chesterfield Ave #A,78752,,,3.0,3.0,3950.0,1802.0, Townhouse,https://www.zillow.com/homedetails/6405-Chesterfield-Ave-A-Austin-TX-78752/305431170_zpid/
+460,5500 Basswood Ln,78723,,,4.0,2.5,3500.0,2068.0, SingleFamily,https://www.zillow.com/homedetails/5500-Basswood-Ln-Austin-TX-78723/29398645_zpid/
+461,12002 Swan Dr,78750,,,4.0,2.0,2450.0,1800.0, SingleFamily,https://www.zillow.com/homedetails/12002-Swan-Dr-Austin-TX-78750/185212659_zpid/
+462,5808 Monmarte Cv,78744,,,4.0,2.5,2450.0,2407.0, SingleFamily,https://www.zillow.com/homedetails/5808-Monmarte-Cv-Austin-TX-78744/251034813_zpid/
+464,3306 Liberty St,78705,,,5.0,3.0,5295.0,2074.0, SingleFamily,https://www.zillow.com/homedetails/3306-Liberty-St-Austin-TX-78705/29398290_zpid/
+466,2825 San Gabriel St #B,78705,,,3.0,1.0,2250.0,850.0, MultiFamily,https://www.zillow.com/homedetails/2825-San-Gabriel-St-B-Austin-TX-78705/2078671146_zpid/
+467,811 Gunter St,78702,,,3.0,2.0,3150.0,1522.0, SingleFamily,https://www.zillow.com/homedetails/811-Gunter-St-Austin-TX-78702/29384682_zpid/
+469,10308 Anahuac Trl,78747,,,3.0,2.0,2600.0,2062.0, SingleFamily,https://www.zillow.com/homedetails/10308-Anahuac-Trl-Austin-TX-78747/69811043_zpid/
+470,3115 Helms St APT 214,78705,,,2.0,2.0,2200.0,887.0, Condo,https://www.zillow.com/homedetails/3115-Helms-St-APT-214-Austin-TX-78705/29397368_zpid/
+471,12407 Altamira St,78748,,,3.0,4.0,3600.0,2592.0, SingleFamily,https://www.zillow.com/homedetails/12407-Altamira-St-Austin-TX-78748/124720105_zpid/
+473,2110 Rio Grande St APT 306,78705,,,2.0,1.0,1800.0,777.0, Apartment,https://www.zillow.com/homedetails/2110-Rio-Grande-St-APT-306-Austin-TX-78705/29391853_zpid/
+475,5704 Respinto Dr,78747,,,3.0,2.0,2350.0,1441.0, SingleFamily,https://www.zillow.com/homedetails/5704-Respinto-Dr-Austin-TX-78747/331630252_zpid/
+476,11907B Bell Ave,78759,,,2.0,1.0,1950.0,912.0, SingleFamily,https://www.zillow.com/homedetails/11907B-Bell-Ave-Austin-TX-78759/2063432419_zpid/
+479,3204 Lipscomb St,78705,,,4.0,2.0,4200.0,1798.0, SingleFamily,https://www.zillow.com/homedetails/3204-Lipscomb-St-Austin-TX-78705/29399270_zpid/
+480,2411 La Casa Dr #A,78704,,,3.0,2.0,2200.0,1150.0, Apartment,https://www.zillow.com/homedetails/2411-La-Casa-Dr-A-Austin-TX-78704/2064164890_zpid/
+481,10036 Lisi Anne Dr,78717,,,4.0,3.5,4200.0,3300.0, SingleFamily,https://www.zillow.com/homedetails/10036-Lisi-Anne-Dr-Austin-TX-78717/70992705_zpid/
+483,331 Torrington Dr,78737,,,4.0,3.0,4295.0,3388.0, SingleFamily,https://www.zillow.com/homedetails/331-Torrington-Dr-Austin-TX-78737/84130266_zpid/
+484,1304 Summit St APT 212,78741,,,2.0,1.0,3500.0,745.0, Apartment,https://www.zillow.com/homedetails/1304-Summit-St-APT-212-Austin-TX-78741/29460655_zpid/
+486,2906 Pearl St APT B,78705,,,4.0,2.5,3600.0,1990.0, Townhouse,https://www.zillow.com/homedetails/2906-Pearl-St-APT-B-Austin-TX-78705/2124033436_zpid/
+487,1007 Presa Arriba Rd,78733,,,3.0,2.0,3300.0,1350.0, SingleFamily,https://www.zillow.com/homedetails/1007-Presa-Arriba-Rd-Austin-TX-78733/29345241_zpid/
+488,3000 Guadalupe St APT 201,78705,,,1.0,1.0,1050.0,401.0, Apartment,https://www.zillow.com/homedetails/3000-Guadalupe-St-APT-201-Austin-TX-78705/29398005_zpid/
+489,1807 Barbara St,78757,,,3.0,2.0,2950.0,1181.0, SingleFamily,https://www.zillow.com/homedetails/1807-Barbara-St-Austin-TX-78757/29421340_zpid/
+490,1341 Wilderness Dr #B,78746,,,2.0,2.0,2000.0,900.0, Townhouse,https://www.zillow.com/homedetails/1341-Wilderness-Dr-B-Austin-TX-78746/2099463217_zpid/
+494,7011 McKinney Falls Pkwy,78744,,,2.0,2.0,1274.0,1044.0, Townhouse,https://www.zillow.com/homedetails/7011-McKinney-Falls-Pkwy-Austin-TX-78744/58311368_zpid/
+497,(Undisclosed Address),78754,,,4.0,3.0,2998.0,2300.0, SingleFamily,https://www.zillow.com/homedetails/Austin-TX-78754/337144252_zpid/
+498,5112 Wayborne Hill Dr,78723,,,4.0,2.0,3200.0,1500.0, SingleFamily,https://www.zillow.com/homedetails/5112-Wayborne-Hill-Dr-Austin-TX-78723/29400215_zpid/
+500,202 Nueces St #2304,78701,,,1.0,1.5,6500.0,921.0, Condo,https://www.zillow.com/homedetails/202-Nueces-St-2304-Austin-TX-78701/306645194_zpid/
+501,2216 Thornton Rd APT 211,78704,,,2.0,2.0,3750.0,1272.0, Condo,https://www.zillow.com/homedetails/2216-Thornton-Rd-APT-211-Austin-TX-78704/64448624_zpid/
+504,12302 Wycliff Ln,78727,,,4.0,2.5,2900.0,1850.0, SingleFamily,https://www.zillow.com/homedetails/12302-Wycliff-Ln-Austin-TX-78727/29442423_zpid/
+506,9101 Frostwood Trl,78729,,,4.0,2.5,2850.0,2120.0, SingleFamily,https://www.zillow.com/homedetails/9101-Frostwood-Trl-Austin-TX-78729/29572436_zpid/
+511,5800 Needle Nook Ct,78744,,,3.0,3.0,2300.0,1524.0, SingleFamily,https://www.zillow.com/homedetails/5800-Needle-Nook-Ct-Austin-TX-78744/124836946_zpid/
+513,2528 Elara Dr,78725,,,5.0,3.0,2400.0,1806.0, SingleFamily,https://www.zillow.com/homedetails/2528-Elara-Dr-Austin-TX-78725/89545976_zpid/
+514,2306 Spring Wagon Ln,78728,,,3.0,2.0,2100.0,1533.0, SingleFamily,https://www.zillow.com/homedetails/2306-Spring-Wagon-Ln-Austin-TX-78728/29449501_zpid/
+515,4805 Olive Sparrow Dr,78723,,,3.0,3.0,4000.0,2048.0, SingleFamily,https://www.zillow.com/homedetails/4805-Olive-Sparrow-Dr-Austin-TX-78723/2064137606_zpid/
+519,10312 Laredo Dr,78748,,,3.0,2.5,2700.0,1714.0, SingleFamily,https://www.zillow.com/homedetails/10312-Laredo-Dr-Austin-TX-78748/2118620108_zpid/
+520,10925 Sly Beaver Dr,78754,,,4.0,3.0,2150.0,2019.0, SingleFamily,https://www.zillow.com/homedetails/10925-Sly-Beaver-Dr-Austin-TX-78754/119632374_zpid/
+522,2301 W 10th St #A,78703,,,3.0,2.0,3400.0,1250.0, Apartment,https://www.zillow.com/homedetails/2301-W-10th-St-A-Austin-TX-78703/2119216120_zpid/
+528,5003 Cana Cv UNIT B,78749,,,2.0,1.5,2150.0,1100.0, Apartment,https://www.zillow.com/homedetails/5003-Cana-Cv-UNIT-B-Austin-TX-78749/2078866028_zpid/
+530,3806 Ridgelea Dr #A,78731,,,2.0,1.0,2275.0,830.0, Townhouse,https://www.zillow.com/homedetails/3806-Ridgelea-Dr-A-Austin-TX-78731/2106099368_zpid/
+532,1601 E 6th St FLOOR 2-ID5,78702,,,1.0,1.0,3890.0,704.0, Apartment,https://www.zillow.com/homedetails/1601-E-6th-St-FLOOR-2-ID5-Austin-TX-78702/2068558273_zpid/
+533,11401 Oak Knoll Dr,78759,,,4.0,3.5,5500.0,2906.0, SingleFamily,https://www.zillow.com/homedetails/11401-Oak-Knoll-Dr-Austin-TX-78759/29367595_zpid/
+534,2405 Leon St APT 202,78705,,,3.0,2.0,2850.0,1300.0, Apartment,https://www.zillow.com/homedetails/2405-Leon-St-APT-202-Austin-TX-78705/2096636668_zpid/
+535,6903 Deatonhill Dr APT 6,78745,,,2.0,1.0,1750.0,929.0, Apartment,https://www.zillow.com/homedetails/6903-Deatonhill-Dr-APT-6-Austin-TX-78745/58315030_zpid/
+537,1501 Justin Ln #A,78757,,,2.0,1.0,2395.0,1040.0, MultiFamily,https://www.zillow.com/homedetails/1501-Justin-Ln-A-Austin-TX-78757/2102097708_zpid/
+538,2708 San Pedro St #301,78705,,,3.0,2.0,2700.0,1285.0, Apartment,https://www.zillow.com/homedetails/2708-San-Pedro-St-301-Austin-TX-78705/119620941_zpid/
+539,501 Gate Tree Ln,78745,,,4.0,3.0,3950.0,1750.0, SingleFamily,https://www.zillow.com/homedetails/501-Gate-Tree-Ln-Austin-TX-78745/29485781_zpid/
+540,6221 Sendero Hills Pkwy,78724,,,3.0,3.0,3800.0,2368.0, SingleFamily,https://www.zillow.com/homedetails/6221-Sendero-Hills-Pkwy-Austin-TX-78724/306647628_zpid/
+543,14505 Mowsbury Dr,78717,,,3.0,2.5,2395.0,1960.0, SingleFamily,https://www.zillow.com/homedetails/14505-Mowsbury-Dr-Austin-TX-78717/58267727_zpid/
+544,9506 Quail Ct,78758,,,3.0,2.0,2695.0,1498.0, SingleFamily,https://www.zillow.com/homedetails/9506-Quail-Ct-Austin-TX-78758/29428603_zpid/
+545,303 Robert T Martinez Jr St,78702,,,2.0,1.0,3800.0,708.0, SingleFamily,https://www.zillow.com/homedetails/303-Robert-T-Martinez-Jr-St-Austin-TX-78702/29383093_zpid/
+546,6106 Palm Cir,78741,,,2.0,1.0,2295.0,1000.0, SingleFamily,https://www.zillow.com/homedetails/6106-Palm-Cir-Austin-TX-78741/29462340_zpid/
+551,1808 Rio Grande St,78701,,,2.0,2.5,2100.0,1013.0, SingleFamily,https://www.zillow.com/homedetails/1808-Rio-Grande-St-Austin-TX-78701/2066401874_zpid/
+553,8158 Racine Trl,78717,,,3.0,2.5,2599.0,2358.0, SingleFamily,https://www.zillow.com/homedetails/8158-Racine-Trl-Austin-TX-78717/29586876_zpid/
+555,54 Rainey St APT 416,78701,,,1.0,1.0,2250.0,852.0, Apartment,https://www.zillow.com/homedetails/54-Rainey-St-APT-416-Austin-TX-78701/70348330_zpid/
+556,6213 Morning Dew Dr,78749,,,3.0,2.0,2800.0,1740.0, SingleFamily,https://www.zillow.com/homedetails/6213-Morning-Dew-Dr-Austin-TX-78749/29480797_zpid/
+559,906 W 22nd St APT 8,78705,,,1.0,1.0,1025.0,310.0, Apartment,https://www.zillow.com/homedetails/906-W-22nd-St-APT-8-Austin-TX-78705/2094862603_zpid/
+560,7523 Rio Pass,78724,,,4.0,2.5,3100.0,2496.0, SingleFamily,https://www.zillow.com/homedetails/7523-Rio-Pass-Austin-TX-78724/70327032_zpid/
+561,1310 Singleton Ave,78702,,,3.0,2.5,4500.0,2000.0, Condo,https://www.zillow.com/homedetails/1310-Singleton-Ave-Austin-TX-78702/124844931_zpid/
+562,5909 Brahmin Cv,78724,,,4.0,3.0,2450.0,2250.0, SingleFamily,https://www.zillow.com/homedetails/5909-Brahmin-Cv-Austin-TX-78724/331624710_zpid/
+563,503 Zennia St,78751,,,4.0,2.5,3599.0,1450.0, SingleFamily,https://www.zillow.com/homedetails/503-Zennia-St-Austin-TX-78751/29407855_zpid/
+565,1817 Wooten Park Dr APT 101,78757,,,2.0,1.5,1499.0,1008.0, Townhouse,https://www.zillow.com/homedetails/1817-Wooten-Park-Dr-APT-101-Austin-TX-78757/2114858698_zpid/
+566,6309 Arbor Crest Ln,78747,,,4.0,2.0,2600.0,2080.0, SingleFamily,https://www.zillow.com/homedetails/6309-Arbor-Crest-Ln-Austin-TX-78747/305434434_zpid/
+573,7214 Salt Springs Dr #B,78744,,,2.0,2.0,1450.0,1000.0, Townhouse,https://www.zillow.com/homedetails/7214-Salt-Springs-Dr-B-Austin-TX-78744/2084630434_zpid/
+575,7418 Mifflin Kenedy Ter,78749,,,4.0,2.5,3500.0,2300.0, SingleFamily,https://www.zillow.com/homedetails/7418-Mifflin-Kenedy-Ter-Austin-TX-78749/29484168_zpid/
+576,(Undisclosed Address),78748,,,3.0,3.0,2600.0,1687.0, Apartment,https://www.zillow.com/homedetails/Austin-TX-78748/83827219_zpid/
+577,11016 Cut Plains Loop,78726,,,4.0,3.5,3750.0,2845.0, SingleFamily,https://www.zillow.com/homedetails/11016-Cut-Plains-Loop-Austin-TX-78726/124836594_zpid/
+579,2606 Rio Grande St APT 207,78705,,,2.0,1.0,1750.0,720.0, Apartment,https://www.zillow.com/homedetails/2606-Rio-Grande-St-APT-207-Austin-TX-78705/2104203656_zpid/
+580,2216 San Gabriel St APT 107,78705,,,2.0,2.0,1750.0,813.0, Apartment,https://www.zillow.com/homedetails/2216-San-Gabriel-St-APT-107-Austin-TX-78705/29331838_zpid/
+581,5905 Burnhill Dr,78745,,,4.0,2.0,2800.0,1531.0, SingleFamily,https://www.zillow.com/homedetails/5905-Burnhill-Dr-Austin-TX-78745/29483082_zpid/
+582,3914 Avenue D APT 103,78751,,,1.0,1.0,1550.0,630.0, Apartment,https://www.zillow.com/homedetails/3914-Avenue-D-APT-103-Austin-TX-78751/2108142412_zpid/
+583,2008 San Antonio St #204,78705,,,2.0,2.0,1995.0,840.0, Apartment,https://www.zillow.com/homedetails/2008-San-Antonio-St-204-Austin-TX-78705/2063444614_zpid/
+584,1707 Princeton Ave #B,78757,,,3.0,2.0,2300.0,1020.0, Apartment,https://www.zillow.com/homedetails/1707-Princeton-Ave-B-Austin-TX-78757/2086922702_zpid/
+585,5109 Lott Ave #A,78721,,,3.0,2.5,3250.0,1740.0, Townhouse,https://www.zillow.com/homedetails/5109-Lott-Ave-A-Austin-TX-78721/2076875445_zpid/
+586,1114 Euphoria Bend,78702,,,3.0,2.5,3400.0,1700.0, Apartment,https://www.zillow.com/homedetails/1114-Euphoria-Bnd-Austin-TX-78702/2097569955_zpid/
+587,1204 Hollow Creek Dr #2,78704,,,2.0,1.5,3800.0,1098.0, Condo,https://www.zillow.com/homedetails/1204-Hollow-Creek-Dr-2-Austin-TX-78704/2065682140_zpid/
+590,7709 Barbary Ct,78744,,,3.0,3.0,4200.0,2514.0, SingleFamily,https://www.zillow.com/homedetails/7709-Barbary-Ct-Austin-TX-78744/249913053_zpid/
+591,1902 Alegria Rd,78757,,,2.0,3.0,3850.0,1600.0, Townhouse,https://www.zillow.com/homedetails/1902-Alegria-Rd-Austin-TX-78757/2136806725_zpid/
+593,9802 Willers Way,78748,,,3.0,2.0,2350.0,1566.0, SingleFamily,https://www.zillow.com/homedetails/9802-Willers-Way-Austin-TX-78748/29509902_zpid/
+594,3007 Fruth St APT C,78705,,,1.0,1.0,1650.0,500.0, Apartment,https://www.zillow.com/homedetails/3007-Fruth-St-APT-C-Austin-TX-78705/2082863624_zpid/
+596,2108 Bronte Dr,78752,,,3.0,2.5,1900.0,1536.0, Apartment,https://www.zillow.com/homedetails/2108-Bronte-Dr-Austin-TX-78752/29412917_zpid/
+597,11404 Culzean Castle Dr #503,78717,,,3.0,2.5,2450.0,1792.0, Townhouse,https://www.zillow.com/homedetails/11404-Culzean-Castle-Dr-503-Austin-TX-78717/2063490879_zpid/
+602,902 E Live Oak St,78704,,,4.0,2.0,4350.0,1800.0, SingleFamily,https://www.zillow.com/homedetails/902-E-Live-Oak-St-Austin-TX-78704/29460906_zpid/
+603,1013 Melissa Ln,78704,,,3.0,2.5,4995.0,2044.0, SingleFamily,https://www.zillow.com/homedetails/1013-Melissa-Ln-Austin-TX-78704/29381791_zpid/
+604,9529 Hunter Ln,78748,,,4.0,2.5,2600.0,1861.0, SingleFamily,https://www.zillow.com/homedetails/9529-Hunter-Ln-Austin-TX-78748/145657262_zpid/
+606,2012 Cleese Dr,78741,,,3.0,3.0,3000.0,1657.0, SingleFamily,https://www.zillow.com/homedetails/2012-Cleese-Dr-Austin-TX-78741/2074958194_zpid/
+608,1416 Berlin Ln,78753,,,3.0,3.0,2500.0,2417.0, SingleFamily,https://www.zillow.com/homedetails/1416-Berlin-Ln-Austin-TX-78753/124841004_zpid/
+612,607 1/2 Genard St,78751,,,3.0,2.0,2195.0,1144.0, MultiFamily,https://www.zillow.com/homedetails/607-1-2-Genard-St-Austin-TX-78751/2064031803_zpid/
+614,702 Wayside Dr,78703,,,3.0,2.5,5750.0,2514.0, SingleFamily,https://www.zillow.com/homedetails/702-Wayside-Dr-Austin-TX-78703/29330125_zpid/
+615,2910 Govalle Ave,78702,,,1.0,1.5,3200.0,870.0, SingleFamily,https://www.zillow.com/homedetails/2910-Govalle-Ave-Austin-TX-78702/29386860_zpid/
+617,2108 Tillery St UNIT 2105,78723,,,2.0,2.5,4500.0,1538.0, Townhouse,https://www.zillow.com/homedetails/2108-Tillery-St-UNIT-2105-Austin-TX-78723/2064169722_zpid/
+620,3000 Prado St #B,78702,,,2.0,1.0,3400.0,936.0, Apartment,https://www.zillow.com/homedetails/3000-Prado-St-B-Austin-TX-78702/145654059_zpid/
+621,6803 Poncha Pass,78749,,,3.0,2.0,2600.0,1734.0, SingleFamily,https://www.zillow.com/homedetails/6803-Poncha-Pass-Austin-TX-78749/29481726_zpid/
+623,10224 Gertrudis Loop,78747,,,3.0,2.0,2100.0,1232.0, SingleFamily,https://www.zillow.com/homedetails/10224-Gertrudis-Loop-Austin-TX-78747/251029357_zpid/
+624,1313 E 51st St #104,78723,,,1.0,1.0,1600.0,680.0, Apartment,https://www.zillow.com/homedetails/1313-E-51st-St-104-Austin-TX-78723/2063446944_zpid/
+625,12117 Sunderland Dr,78753,,,3.0,2.0,2375.0,1405.0, SingleFamily,https://www.zillow.com/homedetails/12117-Sunderland-Dr-Austin-TX-78753/29434505_zpid/
+626,305 1/2 W 41st St,78751,,,1.0,1.0,1495.0,635.0, Apartment,https://www.zillow.com/homedetails/305-1-2-W-41st-St-Austin-TX-78751/2063473491_zpid/
+629,1908 San Antonio St APT 312,78705,,,2.0,1.0,1800.0,698.0, Condo,https://www.zillow.com/homedetails/1908-San-Antonio-St-APT-312-Austin-TX-78705/29391934_zpid/
+630,3500 Banda Ln,78725,,,4.0,2.5,2095.0,1710.0, SingleFamily,https://www.zillow.com/homedetails/3500-Banda-Ln-Austin-TX-78725/60135228_zpid/
+631,502 Sunny Ln #B,78704,,,1.0,1.0,2785.0,850.0, Apartment,https://www.zillow.com/homedetails/502-Sunny-Ln-B-Austin-TX-78704/2072205110_zpid/
+632,9600 Tobrina Ln,78759,,,4.0,3.0,5000.0,3600.0, SingleFamily,https://www.zillow.com/homedetails/9600-Tobrina-Ln-Austin-TX-78759/29365370_zpid/
+633,10116 Pinehurst Dr,78747,,,5.0,2.5,3600.0,3539.0, SingleFamily,https://www.zillow.com/homedetails/10116-Pinehurst-Dr-Austin-TX-78747/29515046_zpid/
+634,4411 Gillis St #A,78745,,,3.0,2.0,4490.0,1750.0, Townhouse,https://www.zillow.com/homedetails/4411-Gillis-St-A-Austin-TX-78745/241933209_zpid/
+636,10628 Royal Tara Cv,78717,,,3.0,2.5,2750.0,2275.0, SingleFamily,https://www.zillow.com/homedetails/10628-Royal-Tara-Cv-Austin-TX-78717/70976455_zpid/
+637,1712 Sunterro,78727,,,4.0,2.5,2700.0,2857.0, SingleFamily,https://www.zillow.com/homedetails/1712-Sunterro-Austin-TX-78727/58307475_zpid/
+638,7312 Oberon St #74,78741,,,3.0,2.5,3050.0,2023.0, SingleFamily,https://www.zillow.com/homedetails/7312-Oberon-St-74-Austin-TX-78741/251031855_zpid/
+639,1801 Lavaca St APT 5F,78701,,,2.0,2.0,2995.0,1294.0, Apartment,https://www.zillow.com/homedetails/1801-Lavaca-St-APT-5F-Austin-TX-78701/29389401_zpid/
+643,10700 Macmora Rd UNIT 106,78758,,,2.0,2.0,1795.0,1106.0, Apartment,https://www.zillow.com/homedetails/10700-Macmora-Rd-UNIT-106-Austin-TX-78758/83816142_zpid/
+645,612 E Baylee Love Ln,78717,,,2.0,2.0,2400.0,1416.0, SingleFamily,https://www.zillow.com/homedetails/612-E-Baylee-Love-Ln-Austin-TX-78717/121723545_zpid/
+646,13700 Sage Grouse Dr #1801,78729,,,3.0,2.5,2250.0,1825.0, Apartment,https://www.zillow.com/homedetails/13700-Sage-Grouse-Dr-1801-Austin-TX-78729/243342994_zpid/
+649,1005 Daniel Dr,78704,,,3.0,2.5,12000.0,2683.0, SingleFamily,https://www.zillow.com/homedetails/1005-Daniel-Dr-Austin-TX-78704/29323796_zpid/
+651,10532 Redmond Rd,78739,,,4.0,2.5,4000.0,2450.0, SingleFamily,https://www.zillow.com/homedetails/10532-Redmond-Rd-Austin-TX-78739/29504748_zpid/
+652,6709 Broad Brook Dr,78747,,,3.0,2.0,1895.0,1079.0, SingleFamily,https://www.zillow.com/homedetails/6709-Broad-Brook-Dr-Austin-TX-78747/58311728_zpid/
+654,4429 Whispering Valley Dr #C,78727,,,2.0,1.0,1300.0,780.0, Apartment,https://www.zillow.com/homedetails/4429-Whispering-Valley-Dr-C-Austin-TX-78727/2072254403_zpid/
+655,5606 Bonnell Vista St #D-5,78731,,,2.0,1.5,2250.0,875.0, Apartment,https://www.zillow.com/homedetails/5606-Bonnell-Vista-St-D-5-Austin-TX-78731/29346201_zpid/
+656,3016 Guadalupe St APT 208,78705,,,2.0,2.0,2100.0,1053.0, Apartment,https://www.zillow.com/homedetails/3016-Guadalupe-St-APT-208-Austin-TX-78705/80094491_zpid/
+657,202 Montopolis Dr #A,78741,,,3.0,2.5,2950.0,1913.0, Apartment,https://www.zillow.com/homedetails/202-Montopolis-Dr-A-Austin-TX-78741/2063460765_zpid/
+658,2309 Dovehill Dr,78744,,,4.0,2.0,3395.0,1530.0, SingleFamily,https://www.zillow.com/homedetails/2309-Dovehill-Dr-Austin-TX-78744/29500333_zpid/
+659,(Undisclosed Address),78748,,,3.0,3.0,2999.0,2075.0, SingleFamily,https://www.zillow.com/homedetails/Austin-TX-78748/29507339_zpid/
+660,1157 Barton Springs Rd FLOOR 4-ID8,78704,,,1.0,1.0,3840.0,873.0, Apartment,https://www.zillow.com/homedetails/1157-Barton-Springs-Rd-FLOOR-4-ID8-Austin-TX-78704/2067554007_zpid/
+661,3608 Pevetoe St,78725,,,4.0,2.5,2350.0,1896.0, SingleFamily,https://www.zillow.com/homedetails/3608-Pevetoe-St-Austin-TX-78725/29462512_zpid/
+662,13104 Bennington Ln,78753,,,4.0,2.0,5500.0,2200.0, SingleFamily,https://www.zillow.com/homedetails/13104-Bennington-Ln-Austin-TX-78753/29438859_zpid/
+663,3106 Glen Ora St #B,78704,,,2.0,1.0,3500.0,950.0, Apartment,https://www.zillow.com/homedetails/3106-Glen-Ora-St-B-Austin-TX-78704/2091298862_zpid/
+665,2807 Del Curto Rd UNIT J,78704,,,3.0,2.5,6500.0,2295.0, Apartment,https://www.zillow.com/homedetails/2807-Del-Curto-Rd-UNIT-J-Austin-TX-78704/241938480_zpid/
+666,3605 Texas Topaz Dr #3605,78728,,,3.0,2.5,2100.0,1975.0, Apartment,https://www.zillow.com/homedetails/3605-Texas-Topaz-Dr-3605-Austin-TX-78728/2065397027_zpid/
+672,1008 E 13th St,78702,,,2.0,2.0,2600.0,1313.0, SingleFamily,https://www.zillow.com/homedetails/1008-E-13th-St-Austin-TX-78702/29388299_zpid/
+673,7436 Bonniebrook Dr,78735,,,3.0,2.5,3500.0,2755.0, SingleFamily,https://www.zillow.com/homedetails/7436-Bonniebrook-Dr-Austin-TX-78735/70345981_zpid/
+676,301 E 33rd St #5,78705,,,1.0,1.0,1500.0,620.0, Apartment,https://www.zillow.com/homedetails/301-E-33rd-St-5-Austin-TX-78705/2065612830_zpid/
+677,6508 Skycrest Dr,78745,,,4.0,2.5,3000.0,1742.0, SingleFamily,https://www.zillow.com/homedetails/6508-Skycrest-Dr-Austin-TX-78745/29494537_zpid/
+678,8800 Pepper Grass Cv,78745,,,3.0,2.5,2496.0,1564.0, SingleFamily,https://www.zillow.com/homedetails/8800-Pepper-Grass-Cv-Austin-TX-78745/29501569_zpid/
+679,10317 Laurie Ln,78747,,,3.0,2.5,2400.0,1914.0, SingleFamily,https://www.zillow.com/homedetails/10317-Laurie-Ln-Austin-TX-78747/251035852_zpid/
+680,2802 Half Jefferson St,78703,,,1.0,1.0,1600.0,510.0, Townhouse,https://www.zillow.com/homedetails/2802-Half-Jefferson-St-Austin-TX-78703/2066637599_zpid/
+682,2002 Northridge Dr,78723,,,3.0,2.0,3400.0,1311.0, SingleFamily,https://www.zillow.com/homedetails/2002-Northridge-Dr-Austin-TX-78723/29405767_zpid/
+683,555 E 5th St APT 2826,78701,,,2.0,2.0,6250.0,1454.0, Apartment,https://www.zillow.com/homedetails/555-E-5th-St-APT-2826-Austin-TX-78701/64551569_zpid/
+684,2510 Rosewood Ave,78702,,,4.0,3.0,6250.0,2441.0, SingleFamily,https://www.zillow.com/homedetails/2510-Rosewood-Ave-Austin-TX-78702/64888254_zpid/
+687,1415 Holly St #B,78702,,,2.0,1.5,3500.0,950.0, Apartment,https://www.zillow.com/homedetails/1415-Holly-St-B-Austin-TX-78702/2090586477_zpid/
+690,7910 Linda Michelle Ln,78724,,,3.0,2.0,2395.0,1514.0, SingleFamily,https://www.zillow.com/homedetails/7910-Linda-Michelle-Ln-Austin-TX-78724/2067835531_zpid/
+693,901 W 22nd St APT 104,78705,,,2.0,2.0,2000.0,913.0, Apartment,https://www.zillow.com/homedetails/901-W-22nd-St-APT-104-Austin-TX-78705/62605554_zpid/
+694,1417 Preston Ave,78703,,,3.0,2.0,3800.0,1704.0, SingleFamily,https://www.zillow.com/homedetails/1417-Preston-Ave-Austin-TX-78703/29334830_zpid/
+695,614 Highland Ave APT A,78703,,,2.0,1.0,1850.0,750.0, Apartment,https://www.zillow.com/homedetails/614-Highland-Ave-APT-A-Austin-TX-78703/29327342_zpid/
+696,104-1313 E 51st St #104,78723,,,1.0,1.0,1600.0,680.0, Apartment,https://www.zillow.com/homedetails/104-1313-E-51st-St-104-Austin-TX-78723/2063446988_zpid/
+697,1002 1/2 S 3rd St,78704,,,3.0,3.0,12800.0,2692.0, SingleFamily,https://www.zillow.com/homedetails/1002-1-2-S-3rd-St-Austin-TX-78704/2063453598_zpid/
+698,2712 Windswept Cv #202,78745,,,2.0,1.0,1495.0,925.0, Apartment,https://www.zillow.com/homedetails/2712-Windswept-Cv-202-Austin-TX-78745/2089228551_zpid/
+700,13464 Athens Trl,78729,,,3.0,2.5,2300.0,1632.0, SingleFamily,https://www.zillow.com/homedetails/13464-Athens-Trl-Austin-TX-78729/29595483_zpid/
+702,3103 West Ave APT B,78705,,,2.0,1.0,1895.0,750.0, Apartment,https://www.zillow.com/homedetails/3103-West-Ave-APT-B-Austin-TX-78705/2068671726_zpid/
+704,3509 Alpine Cir APT 4,78704,,,2.0,1.5,2000.0,960.0, Apartment,https://www.zillow.com/homedetails/3509-Alpine-Cir-APT-4-Austin-TX-78704/2063420715_zpid/
+706,1812 Poquito St,78702,,,3.0,2.5,4400.0,1875.0, SingleFamily,https://www.zillow.com/homedetails/1812-Poquito-St-Austin-TX-78702/119626311_zpid/
+707,3600 Summit Bend #2,78759,,,2.0,1.5,2500.0,1350.0, Apartment,https://www.zillow.com/homedetails/3600-Summit-Bnd-2-Austin-TX-78759/2064162968_zpid/
+709,1507 North St APT A,78756,,,2.0,2.0,3100.0,1182.0, Apartment,https://www.zillow.com/homedetails/1507-North-St-APT-A-Austin-TX-78756/121657372_zpid/
+713,5312 Agatha Cir,78724,,,3.0,2.5,2995.0,2004.0, SingleFamily,https://www.zillow.com/homedetails/5312-Agatha-Cir-Austin-TX-78724/70326562_zpid/
+718,10609 Defender Trl,78754,,,3.0,2.0,2250.0,1520.0, SingleFamily,https://www.zillow.com/homedetails/10609-Defender-Trl-Austin-TX-78754/337144359_zpid/
+719,6715 W Gate Blvd #A,78745,,,3.0,2.0,3300.0,1020.0, Townhouse,https://www.zillow.com/homedetails/6715-W-Gate-Blvd-A-Austin-TX-78745/305428395_zpid/
+722,406 Krebs Ln UNIT A,78704,,,3.0,3.0,4995.0,1669.0, Townhouse,https://www.zillow.com/homedetails/406-Krebs-Ln-UNIT-A-Austin-TX-78704/2071151713_zpid/
+729,7200 Derby Downs Dr,78747,,,3.0,3.0,2149.0,2068.0, SingleFamily,https://www.zillow.com/homedetails/7200-Derby-Downs-Dr-Austin-TX-78747/80102377_zpid/
+730,7502 Sevilla Dr,78752,,,3.0,2.0,2800.0,1662.0, SingleFamily,https://www.zillow.com/homedetails/7502-Sevilla-Dr-Austin-TX-78752/29413803_zpid/
+733,11109 Casitas Dr,78717,,,4.0,2.0,2450.0,2147.0, SingleFamily,https://www.zillow.com/homedetails/11109-Casitas-Dr-Austin-TX-78717/88017204_zpid/
+734,1604 Perez St UNIT A,78721,,,3.0,2.5,5000.0,1700.0, Apartment,https://www.zillow.com/homedetails/1604-Perez-St-UNIT-A-Austin-TX-78721/2064139004_zpid/
+737,1917 Geniveive Ln,78741,,,3.0,3.0,3800.0,1651.0, SingleFamily,https://www.zillow.com/homedetails/1917-Geniveive-Ln-Austin-TX-78741/124841025_zpid/
+739,1602 E 10th St,78702,,,3.0,2.0,4400.0,1344.0, SingleFamily,https://www.zillow.com/homedetails/1602-E-10th-St-Austin-TX-78702/29385150_zpid/
+740,5814 Republic Of Texas Blvd,78735,,,4.0,3.5,5500.0,3199.0, SingleFamily,https://www.zillow.com/homedetails/5814-Republic-Of-Texas-Blvd-Austin-TX-78735/29323463_zpid/
+741,2313 Oak Crest Ave #A,78704,,,3.0,2.0,6000.0,1447.0, Townhouse,https://www.zillow.com/homedetails/2313-Oak-Crest-Ave-A-Austin-TX-78704/251036760_zpid/
+742,1814 Ulit Ave #A,78702,,,4.0,2.0,2995.0,1610.0, Apartment,https://www.zillow.com/homedetails/1814-Ulit-Ave-A-Austin-TX-78702/64716648_zpid/
+743,7703 Vail Valley Dr,78749,,,4.0,2.0,3100.0,1829.0, SingleFamily,https://www.zillow.com/homedetails/7703-Vail-Valley-Dr-Austin-TX-78749/29486715_zpid/
+744,1400 Poppy Seed Ln,78741,,,3.0,2.0,2749.0,1278.0, SingleFamily,https://www.zillow.com/homedetails/1400-Poppy-Seed-Ln-Austin-TX-78741/69809023_zpid/
+747,3839 Dry Creek Dr UNIT 234,78731,,,2.0,2.0,1950.0,995.0, Apartment,https://www.zillow.com/homedetails/3839-Dry-Creek-Dr-UNIT-234-Austin-TX-78731/29346031_zpid/
+748,5302 Towser Ct,78744,,,3.0,2.0,2700.0,1518.0, SingleFamily,https://www.zillow.com/homedetails/5302-Towser-Ct-Austin-TX-78744/70327391_zpid/
+749,1808 Travis Heights Blvd,78704,,,1.0,1.0,3800.0,1300.0, SingleFamily,https://www.zillow.com/homedetails/1808-Travis-Heights-Blvd-Austin-TX-78704/29460497_zpid/
+750,3209 Mossrock Dr #A,78757,,,2.0,1.0,1995.0,875.0, Townhouse,https://www.zillow.com/homedetails/3209-Mossrock-Dr-A-Austin-TX-78757/2064415241_zpid/
+752,6319 Parliament Dr #B,78724,,,2.0,1.5,1890.0,872.0, Apartment,https://www.zillow.com/homedetails/6319-Parliament-Dr-B-Austin-TX-78724/2072213287_zpid/
+753,6201 Toscana Ave,78724,,,3.0,2.5,3600.0,1951.0, SingleFamily,https://www.zillow.com/homedetails/6201-Toscana-Ave-Austin-TX-78724/306647411_zpid/
+758,1001 W 22nd St #A,78705,,,1.0,1.0,1795.0,750.0, Townhouse,https://www.zillow.com/homedetails/1001-W-22nd-St-A-Austin-TX-78705/2084803753_zpid/
+759,15820 Neenah Oak Loop,78717,,,3.0,2.0,2595.0,1850.0, SingleFamily,https://www.zillow.com/homedetails/15820-Neenah-Oak-Loop-Austin-TX-78717/70987827_zpid/
+760,8708 Azalea Trl,78759,,,3.0,2.0,3990.0,2200.0, SingleFamily,https://www.zillow.com/homedetails/8708-Azalea-Trl-Austin-TX-78759/29432012_zpid/
+761,14204 Rountree Ranch Ln,78717,,,4.0,2.5,2595.0,2218.0, SingleFamily,https://www.zillow.com/homedetails/14204-Rountree-Ranch-Ln-Austin-TX-78717/70992313_zpid/
+762,3406 Menchaca Rd #37,78704,,,2.0,2.5,4000.0,1622.0, Apartment,https://www.zillow.com/homedetails/3406-Menchaca-Rd-37-Austin-TX-78704/69815959_zpid/
+763,11006 Applewood Dr,78758,,,3.0,2.0,2200.0,1487.0, SingleFamily,https://www.zillow.com/homedetails/11006-Applewood-Dr-Austin-TX-78758/29434156_zpid/
+764,11706 Kings View Ct,78750,,,3.0,2.0,1970.0,957.0, Townhouse,https://www.zillow.com/homedetails/11706-Kings-View-Ct-Austin-TX-78750/29373849_zpid/
+765,10405 Pariva Trl,78726,,,4.0,2.5,3050.0,2868.0, SingleFamily,https://www.zillow.com/homedetails/10405-Pariva-Trl-Austin-TX-78726/29374694_zpid/
+766,1700 Sanchez St,78702,,,3.0,2.0,2795.0,1175.0, SingleFamily,https://www.zillow.com/homedetails/1700-Sanchez-St-Austin-TX-78702/29389923_zpid/
+768,620 S 1st St APT 313,78704,,,2.0,1.0,2700.0,856.0, Apartment,https://www.zillow.com/homedetails/620-S-1st-St-APT-313-Austin-TX-78704/62604666_zpid/
+769,2500 Simond Ave #E,78723,,,3.0,2.5,5750.0,1800.0, Townhouse,https://www.zillow.com/homedetails/2500-Simond-Ave-E-Austin-TX-78723/2063415669_zpid/
+771,1931 E 38th 1/2 St #22,78723,,,2.0,2.5,3300.0,1385.0, Apartment,https://www.zillow.com/homedetails/1931-E-38th-1-2-St-22-Austin-TX-78723/2074875805_zpid/
+773,11558 Spicewood Pkwy APT 5,78750,,,3.0,2.0,2250.0,1475.0, Apartment,https://www.zillow.com/homedetails/11558-Spicewood-Pkwy-APT-5-Austin-TX-78750/58300461_zpid/
+774,11307 Gadsen Ln,78754,,,4.0,3.0,3600.0,1945.0, Townhouse,https://www.zillow.com/homedetails/11307-Gadsen-Ln-Austin-TX-78754/2069567570_zpid/
+775,13906 Ilex Dr,78717,,,4.0,3.0,2950.0,2483.0, SingleFamily,https://www.zillow.com/homedetails/13906-Ilex-Dr-Austin-TX-78717/250928084_zpid/
+776,11470 Bristle Oak Trl,78750,,,3.0,3.0,2595.0,1801.0, SingleFamily,https://www.zillow.com/homedetails/11470-Bristle-Oak-Trl-Austin-TX-78750/29567424_zpid/
+778,903 Olive St #A7T-519,78702,,,1.0,1.0,2540.0,746.0, Apartment,https://www.zillow.com/homedetails/903-Olive-St-A7T-519-Austin-TX-78702/2063444414_zpid/
+780,8616 Willowick Dr,78759,,,4.0,2.0,3950.0,2291.0, SingleFamily,https://www.zillow.com/homedetails/8616-Willowick-Dr-Austin-TX-78759/29432089_zpid/
+784,3114 S Congress Ave #308,78704,,,2.0,2.0,2600.0,1310.0, Apartment,https://www.zillow.com/homedetails/3114-S-Congress-Ave-308-Austin-TX-78704/241938559_zpid/
+785,2904 Pearl St APT B,78705,,,1.0,1.0,1475.0,750.0, Apartment,https://www.zillow.com/homedetails/2904-Pearl-St-APT-B-Austin-TX-78705/2093921903_zpid/
+786,2113 Garden St,78702,,,2.0,1.0,2800.0,940.0, SingleFamily,https://www.zillow.com/homedetails/2113-Garden-St-Austin-TX-78702/29383025_zpid/
+787,3108 E 51st St UNIT 501,78723,,,3.0,3.0,3200.0,1686.0, Townhouse,https://www.zillow.com/homedetails/3108-E-51st-St-UNIT-501-Austin-TX-78723/241931875_zpid/
+788,900 Dawson Rd,78704,,,3.0,3.0,7950.0,2299.0, SingleFamily,https://www.zillow.com/homedetails/900-Dawson-Rd-Austin-TX-78704/29323712_zpid/
+789,607 Bellevue Pl,78705,,,3.0,1.0,2750.0,2071.0, SingleFamily,https://www.zillow.com/homedetails/607-Bellevue-Pl-Austin-TX-78705/125741320_zpid/
+791,10903 Thicket Trl,78750,,,3.0,2.0,2600.0,1949.0, SingleFamily,https://www.zillow.com/homedetails/10903-Thicket-Trl-Austin-TX-78750/29566256_zpid/
+792,11404 Swearingen Dr,78758,,,3.0,2.0,2700.0,1448.0, SingleFamily,https://www.zillow.com/homedetails/11404-Swearingen-Dr-Austin-TX-78758/58303961_zpid/
+800,2709 Pegram Ave,78757,,,3.0,2.0,4850.0,1896.0, SingleFamily,https://www.zillow.com/homedetails/2709-Pegram-Ave-Austin-TX-78757/29418713_zpid/
+803,2202 Sl Davis Ave APT A,78702,,,1.0,1.0,1300.0,530.0, Apartment,https://www.zillow.com/homedetails/2202-Sl-Davis-Ave-APT-A-Austin-TX-78702/2096839721_zpid/
+804,6109 Shanjia Dr,78724,,,3.0,2.0,2500.0,1725.0, SingleFamily,https://www.zillow.com/homedetails/6109-Shanjia-Dr-Austin-TX-78724/331627656_zpid/
+806,9109 Ipswich Bay Dr,78747,,,3.0,2.5,2495.0,2244.0, SingleFamily,https://www.zillow.com/homedetails/9109-Ipswich-Bay-Dr-Austin-TX-78747/80087438_zpid/
+807,7705 Gault St #B,78757,,,1.0,1.0,1375.0,600.0, Apartment,https://www.zillow.com/homedetails/7705-Gault-St-B-Austin-TX-78757/2077706113_zpid/
+808,10345 Garbacz Dr,78748,,,4.0,2.5,2300.0,1550.0, SingleFamily,https://www.zillow.com/homedetails/10345-Garbacz-Dr-Austin-TX-78748/58317223_zpid/
+809,1902 Gracy Farms Ln #A,78758,,,3.0,2.0,2100.0,1000.0, Townhouse,https://www.zillow.com/homedetails/1902-Gracy-Farms-Ln-A-Austin-TX-78758/2115862733_zpid/
+810,1813 Monks Tale Ct,78748,,,4.0,3.0,2565.0,1799.0, SingleFamily,https://www.zillow.com/homedetails/1813-Monks-Tale-Ct-Austin-TX-78748/29513244_zpid/
+812,302 E 34th St APT 105,78705,,,1.0,1.0,1350.0,438.0, Apartment,https://www.zillow.com/homedetails/302-E-34th-St-APT-105-Austin-TX-78705/2082011962_zpid/
+813,10641 Royal Tara Cv,78717,,,3.0,2.0,2250.0,1785.0, SingleFamily,https://www.zillow.com/homedetails/10641-Royal-Tara-Cv-Austin-TX-78717/70976460_zpid/
+814,1601 Faro Dr APT 304,78741,,,2.0,1.0,1750.0,900.0, Condo,https://www.zillow.com/homedetails/1601-Faro-Dr-APT-304-Austin-TX-78741/29463006_zpid/
+816,2908 Burning Oak Dr,78704,,,3.0,1.0,2975.0,1200.0, SingleFamily,https://www.zillow.com/homedetails/2908-Burning-Oak-Dr-Austin-TX-78704/29474638_zpid/
+820,6002 Ed Bluestein Blvd,78724,,,1.0,1.0,1500.0,528.0, Apartment,https://www.zillow.com/homedetails/6002-Ed-Bluestein-Blvd-Austin-TX-78724/2066830693_zpid/
+822,2320 Shoalmont Dr,78756,,,3.0,3.5,5200.0,2541.0, SingleFamily,https://www.zillow.com/homedetails/2320-Shoalmont-Dr-Austin-TX-78756/79981589_zpid/
+824,701 W Live Oak St,78704,,,3.0,3.0,10500.0,2257.0, SingleFamily,https://www.zillow.com/homedetails/701-W-Live-Oak-St-Austin-TX-78704/121655245_zpid/
+826,3110 Red River St APT 203,78705,,,2.0,2.0,1975.0,964.0, Apartment,https://www.zillow.com/homedetails/3110-Red-River-St-APT-203-Austin-TX-78705/2083506470_zpid/
+827,11405 Ladera Vista Dr,78759,,,4.0,2.5,3200.0,2200.0, SingleFamily,https://www.zillow.com/homedetails/11405-Ladera-Vista-Dr-Austin-TX-78759/29367536_zpid/
+828,5915 Swayden Ln,78745,,,3.0,2.5,3500.0,2150.0, SingleFamily,https://www.zillow.com/homedetails/5915-Swayden-Ln-Austin-TX-78745/125088909_zpid/
+829,4414 Diane Dr,78745,,,3.0,2.0,2995.0,1160.0, SingleFamily,https://www.zillow.com/homedetails/4414-Diane-Dr-Austin-TX-78745/29479907_zpid/
+830,2105 Morley Dr,78752,,,3.0,"<bound method Series.mode of 2       2.5
+3       2.0
+5       2.5
+6       1.0
+7       2.0
+       ... 
+1332    2.0
+1334    2.0
+1336    3.0
+1337    1.0
+1338    2.5
+Name: num_bathrooms, Length: 739, dtype: object>",1895.0,1724.0, Apartment,https://www.zillow.com/homedetails/2105-Morley-Dr-Austin-TX-78752/29412901_zpid/
+831,11109 Muddler Cv,78733,,,3.0,2.0,4800.0,2000.0, SingleFamily,https://www.zillow.com/homedetails/11109-Muddler-Cv-Austin-TX-78733/80089405_zpid/
+832,(Undisclosed Address),78702,,,3.0,2.0,3550.0,1850.0, SingleFamily,https://www.zillow.com/homedetails/Austin-TX-78702/29389799_zpid/
+833,11504 Eric Heiden Ct,78748,,,3.0,3.0,2500.0,1909.0, SingleFamily,https://www.zillow.com/homedetails/11504-Eric-Heiden-Ct-Austin-TX-78748/114405000_zpid/
+835,706 W Monroe St,78704,,,3.0,2.0,5500.0,1296.0, SingleFamily,https://www.zillow.com/homedetails/706-W-Monroe-St-Austin-TX-78704/29322663_zpid/
+836,3115 Clawson Rd #302,78704,,,3.0,2.5,6450.0,2476.0, Apartment,https://www.zillow.com/homedetails/3115-Clawson-Rd-302-Austin-TX-78704/337141393_zpid/
+838,504 Clover Ct,78745,,,4.0,2.0,3600.0,1223.0, SingleFamily,https://www.zillow.com/homedetails/504-Clover-Ct-Austin-TX-78745/29482280_zpid/
+839,(Undisclosed Address),78704,,,3.0,2.0,4700.0,1200.0, Townhouse,https://www.zillow.com/homedetails/Austin-TX-78704/2065803166_zpid/
+841,2001 Glen Allen St APT 1,78704,,,1.0,1.0,1435.0,670.0, Apartment,https://www.zillow.com/homedetails/2001-Glen-Allen-St-APT-1-Austin-TX-78704/2092855614_zpid/
+842,908 E 32nd St,78705,,,1.0,1.0,2195.0,787.0, Apartment,https://www.zillow.com/homedetails/908-E-32nd-St-Austin-TX-78705/2064371366_zpid/
+843,904 West Ave APT 207,78701,,,1.0,1.0,2800.0,744.0, Condo,https://www.zillow.com/homedetails/904-West-Ave-APT-207-Austin-TX-78701/110539397_zpid/
+844,10706 Lambert Cir,78758,,,3.0,2.0,2150.0,1293.0, SingleFamily,https://www.zillow.com/homedetails/10706-Lambert-Cir-Austin-TX-78758/29433929_zpid/
+845,342 Cistern Way,78737,,,4.0,3.0,5100.0,2671.0, SingleFamily,https://www.zillow.com/homedetails/342-Cistern-Way-Austin-TX-78737/331639205_zpid/
+846,3016 Fleet Dr,78748,,,3.0,2.5,2800.0,2190.0, SingleFamily,https://www.zillow.com/homedetails/3016-Fleet-Dr-Austin-TX-78748/70332684_zpid/
+848,501 W 26th St APT 316,78705,,,2.0,2.0,2300.0,1101.0, Condo,https://www.zillow.com/homedetails/501-W-26th-St-APT-316-Austin-TX-78705/29394101_zpid/
+849,12806 Copper Cliff Ave #B,78727,,,2.0,1.0,1650.0,900.0, Apartment,https://www.zillow.com/homedetails/12806-Copper-Cliff-Ave-B-Austin-TX-78727/2122460677_zpid/
+854,1702 Cullen Ave,78757,,,3.0,2.5,4900.0,1800.0, SingleFamily,https://www.zillow.com/homedetails/1702-Cullen-Ave-Austin-TX-78757/29418290_zpid/
+855,9208 Spire Vw,78744,,,4.0,3.5,4995.0,2954.0, SingleFamily,https://www.zillow.com/homedetails/9208-Spire-Vw-Austin-TX-78744/337145910_zpid/
+858,302 E 30th St APT A,78705,,,2.0,1.0,1950.0,800.0, Townhouse,https://www.zillow.com/homedetails/302-E-30th-St-APT-A-Austin-TX-78705/2109978726_zpid/
+860,7605 Woodstone Cv #A,78749,,,2.0,2.0,1850.0,949.0, Townhouse,https://www.zillow.com/homedetails/7605-Woodstone-Cv-A-Austin-TX-78749/2092887194_zpid/
+863,4310 Attra St,78723,,,3.0,3.0,3100.0,1198.0, SingleFamily,https://www.zillow.com/homedetails/4310-Attra-St-Austin-TX-78723/241934906_zpid/
+864,3809 Valley View Rd #8,78704,,,3.0,4.0,4600.0,1807.0, Condo,https://www.zillow.com/homedetails/3809-Valley-View-Rd-8-Austin-TX-78704/331626992_zpid/
+865,7905 Brockman St,78757,,,4.0,2.0,3200.0,1541.0, SingleFamily,https://www.zillow.com/homedetails/7905-Brockman-St-Austin-TX-78757/29423046_zpid/
+866,400 E 30th St APT 104,78705,,,2.0,2.0,2475.0,952.0, Apartment,https://www.zillow.com/homedetails/400-E-30th-St-APT-104-Austin-TX-78705/2088044083_zpid/
+867,1240 Barton Hills Dr APT 121,78704,,,1.0,1.0,2600.0,761.0, Apartment,https://www.zillow.com/homedetails/1240-Barton-Hills-Dr-APT-121-Austin-TX-78704/29325623_zpid/
+868,5655 Wagon Train Rd,78749,,,3.0,2.5,2665.0,2132.0, Apartment,https://www.zillow.com/homedetails/5655-Wagon-Train-Rd-Austin-TX-78749/29483754_zpid/
+869,3103 Perry Ln,78731,,,5.0,4.5,18000.0,6154.0, SingleFamily,https://www.zillow.com/homedetails/3103-Perry-Ln-Austin-TX-78731/29342006_zpid/
+870,8408 Rocky Bluff Dr,78737,,,4.0,3.5,3500.0,3272.0, SingleFamily,https://www.zillow.com/homedetails/8408-Rocky-Bluff-Dr-Austin-TX-78737/120901443_zpid/
+873,9711 McKnight Loop,78717,,,3.0,3.0,3200.0,1900.0, SingleFamily,https://www.zillow.com/homedetails/9711-McKnight-Loop-Austin-TX-78717/243343446_zpid/
+876,5101 Ganymede Dr,78727,,,3.0,2.0,3250.0,1290.0, SingleFamily,https://www.zillow.com/homedetails/5101-Ganymede-Dr-Austin-TX-78727/29444051_zpid/
+880,915 Tillery St #B,78702,,,3.0,2.5,4500.0,1700.0, Apartment,https://www.zillow.com/homedetails/915-Tillery-St-B-Austin-TX-78702/2067076137_zpid/
+881,4520 Speedway APT A,78751,,,6.0,3.0,3995.0,1818.0, Apartment,https://www.zillow.com/homedetails/4520-Speedway-APT-A-Austin-TX-78751/2102468374_zpid/
+883,512 Eberhart Ln,78745,,,3.0,2.5,2500.0,1464.0, Condo,https://www.zillow.com/homedetails/512-Eberhart-Ln-Austin-TX-78745/2080294609_zpid/
+887,13902 Ilex Dr,78717,,,4.0,3.0,2900.0,2492.0, SingleFamily,https://www.zillow.com/homedetails/13902-Ilex-Dr-Austin-TX-78717/250929511_zpid/
+888,2704 Saint Edwards Cir #B,78704,,,2.0,1.0,3500.0,750.0, Apartment,https://www.zillow.com/homedetails/2704-Saint-Edwards-Cir-B-Austin-TX-78704/2064310241_zpid/
+890,1113 San Augustine Dr,78733,,,3.0,2.5,3250.0,2418.0, SingleFamily,https://www.zillow.com/homedetails/1113-San-Augustine-Dr-Austin-TX-78733/29345060_zpid/
+891,3600 Roller Crossing #3600,78728,,,3.0,2.0,2100.0,2100.0, Apartment,https://www.zillow.com/homedetails/3600-Roller-Xing-3600-Austin-TX-78728/2065518477_zpid/
+892,2709 E 5th St #1201,78702,,,2.0,2.0,3600.0,1219.0, Apartment,https://www.zillow.com/homedetails/2709-E-5th-St-1201-Austin-TX-78702/2069962660_zpid/
+894,10503 Abana Way,78748,,,3.0,2.5,2650.0,2041.0, SingleFamily,https://www.zillow.com/homedetails/10503-Abana-Way-Austin-TX-78748/2083037664_zpid/
+895,11506 Chancellroy Dr,78759,,,4.0,2.0,2800.0,1838.0, SingleFamily,https://www.zillow.com/homedetails/11506-Chancellroy-Dr-Austin-TX-78759/29372030_zpid/
+896,48 East Ave #1506,78701,,,1.0,1.0,3350.0,740.0, Condo,https://www.zillow.com/homedetails/48-East-Ave-1506-Austin-TX-78701/2066368923_zpid/
+897,2827 Shoal Crest Ave,78705,,,3.0,1.0,3500.0,1331.0, SingleFamily,https://www.zillow.com/homedetails/2827-Shoal-Crest-Ave-Austin-TX-78705/29397158_zpid/
+898,4708 Castleman Dr,78725,,,3.0,2.5,2350.0,1564.0, SingleFamily,https://www.zillow.com/homedetails/4708-Castleman-Dr-Austin-TX-78725/29459811_zpid/
+899,2002 Romeria Dr,78757,,,3.0,2.5,4300.0,1900.0, Townhouse,https://www.zillow.com/homedetails/2002-Romeria-Dr-Austin-TX-78757/29416197_zpid/
+903,800 Brazos St UNIT 1102,78701,,,1.0,1.0,2500.0,802.0, Apartment,https://www.zillow.com/homedetails/800-Brazos-St-UNIT-1102-Austin-TX-78701/80095785_zpid/
+904,6310 Porter St #B,78741,,,3.0,2.5,3450.0,1498.0, Apartment,https://www.zillow.com/homedetails/6310-Porter-St-B-Austin-TX-78741/337145447_zpid/
+905,1804 E 2nd St,78702,,,4.0,2.0,5500.0,1557.0, SingleFamily,https://www.zillow.com/homedetails/1804-E-2nd-St-Austin-TX-78702/63835456_zpid/
+906,(Undisclosed Address),78741,,,3.0,2.0,1995.0,1122.0, Townhouse,https://www.zillow.com/homedetails/Austin-TX-78741/2106449992_zpid/
+907,126 Briarpatch Ct,78737,,,5.0,3.0,3475.0,2649.0, SingleFamily,https://www.zillow.com/homedetails/126-Briarpatch-Ct-Austin-TX-78737/84076164_zpid/
+910,1812 West Ave SUITE 501,78701,,,2.0,2.0,3000.0,1300.0, Apartment,https://www.zillow.com/homedetails/1812-West-Ave-SUITE-501-Austin-TX-78701/83830398_zpid/
+914,1170 Ridgeway Dr,78702,,,2.0,2.0,4000.0,1600.0, SingleFamily,https://www.zillow.com/homedetails/1170-Ridgeway-Dr-Austin-TX-78702/89461443_zpid/
+916,5319 William Holland Ave,78756,,,1.0,1.0,1245.0,380.0, Apartment,https://www.zillow.com/homedetails/5319-William-Holland-Ave-Austin-TX-78756/2064311875_zpid/
+922,5220 Trading Bend,78735,,,4.0,2.0,3995.0,2306.0, SingleFamily,https://www.zillow.com/homedetails/5220-Trading-Bnd-Austin-TX-78735/29323217_zpid/
+923,305 E Croslin St APT 109,78752,,,2.0,1.0,1350.0,3904.0, MultiFamily,https://www.zillow.com/homedetails/305-E-Croslin-St-APT-109-Austin-TX-78752/2102208073_zpid/
+924,2004 Winsted Ln #B,78703,,,4.0,3.5,6900.0,2644.0, Apartment,https://www.zillow.com/homedetails/2004-Winsted-Ln-B-Austin-TX-78703/2080245792_zpid/
+925,3321-1120 Shady Ln #3321,78721,,,2.0,2.0,2285.0,1100.0, Apartment,https://www.zillow.com/homedetails/3321-1120-Shady-Ln-3321-Austin-TX-78721/2063416302_zpid/
+926,2012 Magazine St,78727,,,3.0,2.0,2100.0,1224.0, SingleFamily,https://www.zillow.com/homedetails/2012-Magazine-St-Austin-TX-78727/29445166_zpid/
+927,2936 Thousand Oaks Dr,78746,,,4.0,2.5,8000.0,3157.0, SingleFamily,https://www.zillow.com/homedetails/2936-Thousand-Oaks-Dr-Austin-TX-78746/29326015_zpid/
+928,6709 Ondantra Bend,78744,,,3.0,2.5,3495.0,2881.0, SingleFamily,https://www.zillow.com/homedetails/6709-Ondantra-Bnd-Austin-TX-78744/145657959_zpid/
+931,903 Prospect Ave,78702,,,2.0,1.0,2395.0,750.0, Apartment,https://www.zillow.com/homedetails/903-Prospect-Ave-Austin-TX-78702/29385355_zpid/
+932,10727 Cassia Dr,78759,,,4.0,4.0,5500.0,3450.0, SingleFamily,https://www.zillow.com/homedetails/10727-Cassia-Dr-Austin-TX-78759/29368147_zpid/
+933,2104 Cullen Ave APT 218,78757,,,2.0,2.0,1495.0,804.0, Apartment,https://www.zillow.com/homedetails/2104-Cullen-Ave-APT-218-Austin-TX-78757/2120479380_zpid/
+936,11803 Oak Haven Rd,78753,,,3.0,2.0,2250.0,1646.0, SingleFamily,https://www.zillow.com/homedetails/11803-Oak-Haven-Rd-Austin-TX-78753/58303391_zpid/
+937,13800 Lyndhurst St UNIT 183,78717,,,3.0,2.5,2295.0,1659.0, Apartment,https://www.zillow.com/homedetails/13800-Lyndhurst-St-UNIT-183-Austin-TX-78717/2090063805_zpid/
+938,8906 Scotsman Dr,78750,,,4.0,2.0,3500.0,2138.0, SingleFamily,https://www.zillow.com/homedetails/8906-Scotsman-Dr-Austin-TX-78750/29372452_zpid/
+939,5604 Respinto Dr,78747,,,3.0,2.0,2250.0,1441.0, Apartment,https://www.zillow.com/homedetails/5604-Respinto-Dr-Austin-TX-78747/2063447222_zpid/
+941,2818 Nueces St,78705,,,1.0,1.0,1250.0,500.0, Apartment,https://www.zillow.com/homedetails/2818-Nueces-St-Austin-TX-78705/29395566_zpid/
+942,11217 Dodge Cattle Dr,78717,,,3.0,2.5,2395.0,2086.0, SingleFamily,https://www.zillow.com/homedetails/11217-Dodge-Cattle-Dr-Austin-TX-78717/88022226_zpid/
+943,915 W 23rd St APT 102,78705,,,1.0,1.0,1250.0,647.0, Apartment,https://www.zillow.com/homedetails/915-W-23rd-St-APT-102-Austin-TX-78705/62605461_zpid/
+948,1307 Cedar Ave,78702,,,3.0,3.0,4200.0,1454.0, SingleFamily,https://www.zillow.com/homedetails/1307-Cedar-Ave-Austin-TX-78702/29389671_zpid/
+950,3807 Avenue H,78751,,,2.0,2.0,2600.0,1000.0, Apartment,https://www.zillow.com/homedetails/3807-Avenue-H-Austin-TX-78751/29399342_zpid/
+955,6100 Diamondleaf Bend,78724,,,4.0,2.5,2100.0,2095.0, SingleFamily,https://www.zillow.com/homedetails/6100-Diamondleaf-Bnd-Austin-TX-78724/305429122_zpid/
+956,8012 Logwood Dr,78757,,,3.0,2.0,2895.0,1557.0, SingleFamily,https://www.zillow.com/homedetails/8012-Logwood-Dr-Austin-TX-78757/29424668_zpid/
+958,2501 Candlewood Ct,78741,,,4.0,2.0,2795.0,1352.0, SingleFamily,https://www.zillow.com/homedetails/2501-Candlewood-Ct-Austin-TX-78741/29462892_zpid/
+961,1501 Sugarberry Ln,78748,,,3.0,3.0,2200.0,1422.0, SingleFamily,https://www.zillow.com/homedetails/1501-Sugarberry-Ln-Austin-TX-78748/94643150_zpid/
+962,12600 Lucida Ln,78753,,,4.0,2.0,4000.0,2150.0, SingleFamily,https://www.zillow.com/homedetails/12600-Lucida-Ln-Austin-TX-78753/124839555_zpid/
+963,2830 Salado St,78705,,,3.0,2.0,4100.0,1200.0, SingleFamily,https://www.zillow.com/homedetails/2830-Salado-St-Austin-TX-78705/29397255_zpid/
+964,2428 Turtle Mountain Bend,78748,,,4.0,3.5,3700.0,3308.0, SingleFamily,https://www.zillow.com/homedetails/2428-Turtle-Mountain-Bnd-Austin-TX-78748/83824277_zpid/
+965,5220 Tahoe Trl APT 101,78745,,,1.0,1.0,1095.0,700.0, Apartment,https://www.zillow.com/homedetails/5220-Tahoe-Trl-APT-101-Austin-TX-78745/58313369_zpid/
+966,2504 Friar Tuck Ln,78704,,,4.0,3.0,8500.0,2035.0, SingleFamily,https://www.zillow.com/homedetails/2504-Friar-Tuck-Ln-Austin-TX-78704/29476254_zpid/
+967,9812 Morgan Creek Dr,78717,,,4.0,3.0,3250.0,2713.0, SingleFamily,https://www.zillow.com/homedetails/9812-Morgan-Creek-Dr-Austin-TX-78717/80113515_zpid/
+968,304 E 34th St,78705,,,2.0,2.0,1875.0,900.0, Apartment,https://www.zillow.com/homedetails/304-E-34th-St-Austin-TX-78705/29398181_zpid/
+970,1512 Holly St FLOOR 3-ID59,78702,,,2.0,2.0,3390.0,1156.0, Apartment,https://www.zillow.com/homedetails/1512-Holly-St-FLOOR-3-ID59-Austin-TX-78702/2063414309_zpid/
+971,4711 Spicewood Springs Rd UNIT 289,78759,,,2.0,2.0,2950.0,1360.0, Apartment,https://www.zillow.com/homedetails/4711-Spicewood-Springs-Rd-UNIT-289-Austin-TX-78759/29358700_zpid/
+972,9709 Eastwend Dr #B,78753,,,2.0,2.0,1300.0,900.0, Townhouse,https://www.zillow.com/homedetails/9709-Eastwend-Dr-B-Austin-TX-78753/2099031652_zpid/
+975,2321 Village Cir #B,78745,,,2.0,1.0,2350.0,900.0, Apartment,https://www.zillow.com/homedetails/2321-Village-Cir-B-Austin-TX-78745/2072027305_zpid/
+977,300 Crockett St APT 314,78704,,,1.0,1.0,1500.0,692.0, Apartment,https://www.zillow.com/homedetails/300-Crockett-St-APT-314-Austin-TX-78704/79981952_zpid/
+979,6609 McKinney Falls Pkwy,78744,,,1.0,1.0,1080.0,288174.0, SingleFamily,https://www.zillow.com/homedetails/6609-McKinney-Falls-Pkwy-Austin-TX-78744/144990634_zpid/
+980,14208 Cottingham Dr,78725,,,3.0,2.0,1950.0,1521.0, SingleFamily,https://www.zillow.com/homedetails/14208-Cottingham-Dr-Austin-TX-78725/145656261_zpid/
+981,2115 Barton Hills Dr,78704,,,4.0,2.0,6000.0,2500.0, SingleFamily,https://www.zillow.com/homedetails/2115-Barton-Hills-Dr-Austin-TX-78704/29322802_zpid/
+982,1411 Norwalk Ln APT 203,78703,,,2.0,1.5,1995.0,1022.0, Apartment,https://www.zillow.com/homedetails/1411-Norwalk-Ln-APT-203-Austin-TX-78703/29332190_zpid/
+984,1103 N Interstate Highway 35 #A11T-1128,78702,,,1.0,1.0,3090.0,789.0, Apartment,https://www.zillow.com/homedetails/1103-N-Interstate-Highway-35-A11T-1128-Austin-TX-78702/2063430217_zpid/
+986,606 E 54th St #A,78751,,,3.0,2.5,3600.0,1450.0, Apartment,https://www.zillow.com/homedetails/606-E-54th-St-A-Austin-TX-78751/2104867278_zpid/
+987,13920 Ashton Woods Cir,78727,,,2.0,2.0,4850.0,1700.0, Townhouse,https://www.zillow.com/homedetails/13920-Ashton-Woods-Cir-Austin-TX-78727/70340194_zpid/
+988,779 Wild Rose Dr,78737,,,5.0,3.0,3550.0,2838.0, SingleFamily,https://www.zillow.com/homedetails/779-Wild-Rose-Dr-Austin-TX-78737/119632528_zpid/
+990,(Undisclosed Address),78705,,,4.0,2.0,2800.0,1219.0, Condo,https://www.zillow.com/homedetails/Austin-TX-78705/2066557063_zpid/
+991,2129 NE Garcia St,78723,,,3.0,2.5,4595.0,2400.0, Townhouse,https://www.zillow.com/homedetails/2129-NE-Garcia-St-Austin-TX-78723/2063468072_zpid/
+994,2100 Pipers Field Dr APT 35,78758,,,2.0,2.5,1850.0,1193.0, Apartment,https://www.zillow.com/homedetails/2100-Pipers-Field-Dr-APT-35-Austin-TX-78758/2110288307_zpid/
+995,311 W Milton St,78704,,,3.0,2.0,7499.0,1690.0, SingleFamily,https://www.zillow.com/homedetails/311-W-Milton-St-Austin-TX-78704/29471918_zpid/
+997,1813 Dexter St,78704,,,3.0,2.5,8950.0,1771.0, SingleFamily,https://www.zillow.com/homedetails/1813-Dexter-St-Austin-TX-78704/29324217_zpid/
+998,1801 Bouldin Ave #A,78704,,,3.0,2.0,3400.0,1268.0, Apartment,https://www.zillow.com/homedetails/1801-Bouldin-Ave-A-Austin-TX-78704/2110737831_zpid/
+1000,106 E 30th St APT 304,78705,,,3.0,2.0,2800.0,838.0, Condo,https://www.zillow.com/homedetails/106-E-30th-St-APT-304-Austin-TX-78705/62605844_zpid/
+1001,1703 Schulle Ave,78703,,,5.0,4.0,15000.0,4156.0, SingleFamily,https://www.zillow.com/homedetails/1703-Schulle-Ave-Austin-TX-78703/29335295_zpid/
+1002,203 Laguna Vista Dr,78746,,,1.0,1.0,2095.0,750.0, SingleFamily,https://www.zillow.com/homedetails/203-Laguna-Vista-Dr-Austin-TX-78746/2065754041_zpid/
+1007,1414 Justin Ln #A,78757,,,3.0,2.5,3700.0,1763.0, Townhouse,https://www.zillow.com/homedetails/1414-Justin-Ln-A-Austin-TX-78757/121658663_zpid/
+1008,3210 Crownover St,78725,,,3.0,2.5,2095.0,1655.0, SingleFamily,https://www.zillow.com/homedetails/3210-Crownover-St-Austin-TX-78725/63837831_zpid/
+1009,9429 Castle Pines Dr,78717,,,3.0,2.0,2250.0,1718.0, SingleFamily,https://www.zillow.com/homedetails/9429-Castle-Pines-Dr-Austin-TX-78717/70985181_zpid/
+1010,1408 Nickerson St,78704,,,2.0,1.0,3250.0,1200.0, SingleFamily,https://www.zillow.com/homedetails/1408-Nickerson-St-Austin-TX-78704/29458711_zpid/
+1011,1717 W 35th St,78703,,,2.0,2.0,1595.0,925.0, Apartment,https://www.zillow.com/homedetails/1717-W-35th-St-Austin-TX-78703/29338606_zpid/
+1012,7320 Bandera Ranch Trl #A,78750,,,3.0,2.5,2800.0,2283.0, Apartment,https://www.zillow.com/homedetails/7320-Bandera-Ranch-Trl-A-Austin-TX-78750/121657658_zpid/
+1014,11425 Kirkland Hill Path,78754,,,4.0,3.0,2400.0,2305.0, SingleFamily,https://www.zillow.com/homedetails/11425-Kirkland-Hill-Path-Austin-TX-78754/145550211_zpid/
+1015,(Undisclosed Address),78744,,,3.0,2.5,2050.0,1346.0, SingleFamily,https://www.zillow.com/homedetails/Austin-TX-78744/63838956_zpid/
+1016,2401 Pruett St,78703,,,3.0,2.0,4000.0,1082.0, SingleFamily,https://www.zillow.com/homedetails/2401-Pruett-St-Austin-TX-78703/29330102_zpid/
+1018,1314 E 13th St,78702,,,3.0,2.0,3095.0,1144.0, SingleFamily,https://www.zillow.com/homedetails/1314-E-13th-St-Austin-TX-78702/29388344_zpid/
+1019,12505 Jen Ln,78750,,,3.0,2.5,2195.0,1500.0, SingleFamily,https://www.zillow.com/homedetails/12505-Jen-Ln-Austin-TX-78750/116081530_zpid/
+1021,5405 Joe Sayers Ave #A,78756,,,3.0,2.0,3500.0,1205.0, MultiFamily,https://www.zillow.com/homedetails/5405-Joe-Sayers-Ave-A-Austin-TX-78756/2064093263_zpid/
+1022,9127 Margaret Jewel Ln,78748,,,3.0,2.5,2900.0,2359.0, SingleFamily,https://www.zillow.com/homedetails/9127-Margaret-Jewel-Ln-Austin-TX-78748/331622336_zpid/
+1023,3911 Vaughan St,78723,,,3.0,2.5,3995.0,2026.0, SingleFamily,https://www.zillow.com/homedetails/3911-Vaughan-St-Austin-TX-78723/125087837_zpid/
+1024,3410 Westside Cv,78731,,,2.0,2.0,2700.0,1200.0, SingleFamily,https://www.zillow.com/homedetails/3410-Westside-Cv-Austin-TX-78731/2090923224_zpid/
+1025,207 W Johanna St #105,78704,,,1.0,1.0,2600.0,752.0, Apartment,https://www.zillow.com/homedetails/207-W-Johanna-St-105-Austin-TX-78704/241938427_zpid/
+1028,2910 Edgewater Dr,78733,,,3.0,2.0,38500.0,1450.0, SingleFamily,https://www.zillow.com/homedetails/2910-Edgewater-Dr-Austin-TX-78733/29350318_zpid/
+1031,420 Riverside Dr W FLOOR 2-ID31,78704,,,1.0,1.0,2900.0,681.0, Apartment,https://www.zillow.com/homedetails/420-Riverside-Dr-W-FLOOR-2-ID31-Austin-TX-78704/2064207918_zpid/
+1032,801 N Bluff Dr #27,78745,,,3.0,2.5,2900.0,1550.0, Apartment,https://www.zillow.com/homedetails/801-N-Bluff-Dr-27-Austin-TX-78745/305428698_zpid/
+1034,(Undisclosed Address),78705,,,1.0,1.0,1450.0,710.0, Apartment,https://www.zillow.com/homedetails/Austin-TX-78705/2081421568_zpid/
+1043,3008 S 5th St,78704,,,4.0,3.0,6000.0,2086.0, SingleFamily,https://www.zillow.com/homedetails/3008-S-5th-St-Austin-TX-78704/29476770_zpid/
+1044,1801 Wooten Park Dr,78757,,,2.0,1.0,1499.0,1050.0, Townhouse,https://www.zillow.com/homedetails/1801-Wooten-Park-Dr-Austin-TX-78757/29422562_zpid/
+1045,910 W 25th St APT 307,78705,,,2.0,2.0,2200.0,1045.0, Apartment,https://www.zillow.com/homedetails/910-W-25th-St-APT-307-Austin-TX-78705/89550507_zpid/
+1047,11205 Jack Rabbit Trl,78750,,,3.0,2.0,2195.0,1474.0, SingleFamily,https://www.zillow.com/homedetails/11205-Jack-Rabbit-Trl-Austin-TX-78750/29567039_zpid/
+1051,6712 Mira Loma Ln,78723,,,3.0,3.0,2850.0,1743.0, Apartment,https://www.zillow.com/homedetails/6712-Mira-Loma-Ln-Austin-TX-78723/305431062_zpid/
+1053,3210 Hemphill Park #B,78705,,,2.0,1.0,2000.0,900.0, MultiFamily,https://www.zillow.com/homedetails/3210-Hemphill-Park-B-Austin-TX-78705/2069546427_zpid/
+1054,11000 Anderson Mill Rd UNIT 87,78750,,,3.0,2.5,2495.0,1565.0, Apartment,https://www.zillow.com/homedetails/11000-Anderson-Mill-Rd-UNIT-87-Austin-TX-78750/2071228239_zpid/
+1056,3900 Reeders Dr,78725,,,4.0,2.0,2500.0,2277.0, SingleFamily,https://www.zillow.com/homedetails/3900-Reeders-Dr-Austin-TX-78725/60135190_zpid/
+1059,5323 Westminster Dr,78723,,,3.0,3.0,3800.0,1510.0, SingleFamily,https://www.zillow.com/homedetails/5323-Westminster-Dr-Austin-TX-78723/29399961_zpid/
+1061,1501 Palma Plz,78703,,,2.0,1.0,3450.0,1328.0, SingleFamily,https://www.zillow.com/homedetails/1501-Palma-Plz-Austin-TX-78703/29329000_zpid/
+1062,(Undisclosed Address),78728,,,3.0,2.0,1925.0,1100.0, Apartment,https://www.zillow.com/homedetails/Austin-TX-78728/29447880_zpid/
+1063,2205 Richcreek Rd,78757,,,3.0,2.0,2750.0,1614.0, SingleFamily,https://www.zillow.com/homedetails/2205-Richcreek-Rd-Austin-TX-78757/29420245_zpid/
+1070,(Undisclosed Address),78701,,,2.0,2.0,7800.0,1360.0, Condo,https://www.zillow.com/homedetails/Austin-TX-78701/121657221_zpid/
+1071,(Undisclosed Address),78744,,,3.0,2.0,3199.0,1640.0, SingleFamily,https://www.zillow.com/homedetails/Austin-TX-78744/29501108_zpid/
+1075,8500 Bowling Green Dr #A,78757,,,3.0,2.5,3100.0,1863.0, SingleFamily,https://www.zillow.com/homedetails/8500-Bowling-Green-Dr-A-Austin-TX-78757/124836954_zpid/
+1076,7933 Crystalbrook W,78724,,,3.0,2.0,2900.0,1491.0, SingleFamily,https://www.zillow.com/homedetails/7933-Crystalbrook-W-Austin-TX-78724/331621232_zpid/
+1077,910 Duncan Ln APT 61,78705,,,2.0,2.0,1650.0,900.0, Apartment,https://www.zillow.com/homedetails/910-Duncan-Ln-APT-61-Austin-TX-78705/29396136_zpid/
+1078,13101 Foreston Dr,78754,,,4.0,3.0,2500.0,2100.0, SingleFamily,https://www.zillow.com/homedetails/13101-Foreston-Dr-Austin-TX-78754/331623569_zpid/
+1080,8137 Huddleston Ln,78748,,,3.0,2.0,2295.0,1310.0, SingleFamily,https://www.zillow.com/homedetails/8137-Huddleston-Ln-Austin-TX-78748/29503685_zpid/
+1083,901 Valley View Dr,78733,,,3.0,2.0,3750.0,1351.0, SingleFamily,https://www.zillow.com/homedetails/901-Valley-View-Dr-Austin-TX-78733/29345261_zpid/
+1086,5301 Tower Trl,78723,,,3.0,2.0,2850.0,1426.0, SingleFamily,https://www.zillow.com/homedetails/5301-Tower-Trl-Austin-TX-78723/80092763_zpid/
+1088,1804 W 6th St #A,78703,,,3.0,2.0,5400.0,1788.0, Townhouse,https://www.zillow.com/homedetails/1804-W-6th-St-A-Austin-TX-78703/2129954800_zpid/
+1089,9409 Bell Mountain Dr,78730,,,3.0,3.5,7000.0,3645.0, SingleFamily,https://www.zillow.com/homedetails/9409-Bell-Mountain-Dr-Austin-TX-78730/29356167_zpid/
+1093,8202 Parkdale Cv,78757,,,4.0,1.5,2750.0,1348.0, SingleFamily,https://www.zillow.com/homedetails/8202-Parkdale-Cv-Austin-TX-78757/29426300_zpid/
+1094,2000 Paramount Ave #A,78704,,,2.0,1.0,3200.0,1160.0, MultiFamily,https://www.zillow.com/homedetails/2000-Paramount-Ave-A-Austin-TX-78704/2064250523_zpid/
+1096,1306 Norwalk Ln APT 205,78703,,,1.0,1.0,1695.0,778.0, Apartment,https://www.zillow.com/homedetails/1306-Norwalk-Ln-APT-205-Austin-TX-78703/2098958914_zpid/
+1099,11420 Rock Rose Ave FLOOR 4-ID46,78758,,,1.0,1.0,3190.0,833.0, Apartment,https://www.zillow.com/homedetails/11420-Rock-Rose-Ave-FLOOR-4-ID46-Austin-TX-78758/2064160844_zpid/
+1101,3314 Garden Villa Ln #B,78704,,,2.0,2.5,3800.0,1080.0, Apartment,https://www.zillow.com/homedetails/3314-Garden-Villa-Ln-B-Austin-TX-78704/2071123130_zpid/
+1102,7708 Linnie Ln,78724,,,4.0,2.0,4295.0,2025.0, SingleFamily,https://www.zillow.com/homedetails/7708-Linnie-Ln-Austin-TX-78724/337141327_zpid/
+1103,10312 Cameo Ln,78747,,,4.0,3.0,2650.0,2468.0, SingleFamily,https://www.zillow.com/homedetails/10312-Cameo-Ln-Austin-TX-78747/79982324_zpid/
+1107,912 W 22nd 1/2 St APT B,78705,,,1.0,1.0,1150.0,500.0, Apartment,https://www.zillow.com/homedetails/912-W-22nd-1-2-St-APT-B-Austin-TX-78705/2126346636_zpid/
+1108,907 Ramona St,78704,,,1.0,1.0,2495.0,800.0, Townhouse,https://www.zillow.com/homedetails/907-Ramona-St-Austin-TX-78704/29323756_zpid/
+1109,15901 Dink Pearson Ln,78717,,,4.0,3.0,3695.0,3000.0, SingleFamily,https://www.zillow.com/homedetails/15901-Dink-Pearson-Ln-Austin-TX-78717/111969004_zpid/
+1110,3811 Duval St,78751,,,2.0,2.0,3350.0,1200.0, SingleFamily,https://www.zillow.com/homedetails/3811-Duval-St-Austin-TX-78751/29399408_zpid/
+1114,807 Sheraton Ave,78745,,,3.0,2.0,3200.0,1767.0, SingleFamily,https://www.zillow.com/homedetails/807-Sheraton-Ave-Austin-TX-78745/70348785_zpid/
+1116,802 Leisure Run Cv,78745,,,3.0,2.0,2495.0,1404.0, SingleFamily,https://www.zillow.com/homedetails/802-Leisure-Run-Cv-Austin-TX-78745/29489743_zpid/
+1117,6820 N Cypress Point #9,78746,,,2.0,2.5,4200.0,2500.0, Apartment,https://www.zillow.com/homedetails/6820-N-Cypress-Point-9-Austin-TX-78746/29331203_zpid/
+1120,3212 Tamarron Blvd #A,78746,,,3.0,2.5,3000.0,1453.0, Apartment,https://www.zillow.com/homedetails/3212-Tamarron-Blvd-A-Austin-TX-78746/2096347644_zpid/
+1121,4508 Jinx Ave,78745,,,3.0,2.0,3200.0,1272.0, SingleFamily,https://www.zillow.com/homedetails/4508-Jinx-Ave-Austin-TX-78745/29480457_zpid/
+1122,1217 Hollow Creek Dr,78704,,,1.0,1.0,2200.0,664.0, Condo,https://www.zillow.com/homedetails/1217-Hollow-Creek-Dr-Austin-TX-78704/29325702_zpid/
+1123,1217 Castle Hill St,78703,,,2.0,1.5,6000.0,1500.0, SingleFamily,https://www.zillow.com/homedetails/1217-Castle-Hill-St-Austin-TX-78703/29389176_zpid/
+1126,8529 Steamline Cir,78745,,,3.0,2.5,2750.0,2136.0, SingleFamily,https://www.zillow.com/homedetails/8529-Steamline-Cir-Austin-TX-78745/58316372_zpid/
+1128,6106 London Dr,78745,,,3.0,2.0,3200.0,1361.0, SingleFamily,https://www.zillow.com/homedetails/6106-London-Dr-Austin-TX-78745/58314492_zpid/
+1129,4107 Sun Spirit Dr,78735,,,4.0,3.5,4950.0,2704.0, SingleFamily,https://www.zillow.com/homedetails/4107-Sun-Spirit-Dr-Austin-TX-78735/29323238_zpid/
+1133,1710 Cinnamon Path #B,78704,,,3.0,2.0,2700.0,1600.0, MultiFamily,https://www.zillow.com/homedetails/1710-Cinnamon-Path-B-Austin-TX-78704/2123798282_zpid/
+1134,4510 Terry O Ln,78745,,,2.0,2.0,6000.0,1324.0, Townhouse,https://www.zillow.com/homedetails/4510-Terry-O-Ln-Austin-TX-78745/144996098_zpid/
+1135,6010 Long Champ Ct APT 109,78746,,,3.0,2.5,4450.0,2038.0, Apartment,https://www.zillow.com/homedetails/6010-Long-Champ-Ct-APT-109-Austin-TX-78746/29344743_zpid/
+1136,411 W Croslin St #A,78752,,,2.0,1.0,2600.0,915.0, Apartment,https://www.zillow.com/homedetails/411-W-Croslin-St-A-Austin-TX-78752/2063447148_zpid/
+1137,11721 Timber Heights Dr,78754,,,3.0,2.0,1950.0,1617.0, SingleFamily,https://www.zillow.com/homedetails/11721-Timber-Heights-Dr-Austin-TX-78754/70339435_zpid/
+1139,106 Oertli Ln #B,78753,,,2.0,1.0,1600.0,925.0, Apartment,https://www.zillow.com/homedetails/106-Oertli-Ln-B-Austin-TX-78753/2063484866_zpid/
+1140,3102 Funston St,78703,,,2.0,1.0,2795.0,925.0, SingleFamily,https://www.zillow.com/homedetails/3102-Funston-St-Austin-TX-78703/29337162_zpid/
+1144,2705 Island Ledge Cv,78746,,,7.0,6.5,30000.0,10818.0, SingleFamily,https://www.zillow.com/homedetails/2705-Island-Ledge-Cv-Austin-TX-78746/29340527_zpid/
+1145,2000 Whitis Ave APT 207,78705,,,1.0,1.0,1175.0,399.0, Apartment,https://www.zillow.com/homedetails/2000-Whitis-Ave-APT-207-Austin-TX-78705/29391941_zpid/
+1147,1008 Daniel Dr,78704,,,2.0,1.5,3995.0,2076.0, SingleFamily,https://www.zillow.com/homedetails/1008-Daniel-Dr-Austin-TX-78704/29323828_zpid/
+1151,(Undisclosed Address),78751,,,2.0,1.0,3500.0,1100.0, SingleFamily,https://www.zillow.com/homedetails/Austin-TX-78751/29401905_zpid/
+1155,2600 Bridgeway Ct #B,78704,,,2.0,1.5,2700.0,1135.0, Apartment,https://www.zillow.com/homedetails/2600-Bridgeway-Ct-B-Austin-TX-78704/2108201995_zpid/
+1158,2704 Wheless Ln #B,78723,,,2.0,1.0,1995.0,740.0, Apartment,https://www.zillow.com/homedetails/2704-Wheless-Ln-B-Austin-TX-78723/2096130678_zpid/
+1159,7200 Ranchito Dr,78744,,,3.0,2.0,2350.0,1512.0, SingleFamily,https://www.zillow.com/homedetails/7200-Ranchito-Dr-Austin-TX-78744/145656031_zpid/
+1160,1309 Warrington Dr,78753,,,3.0,2.0,2400.0,1400.0, SingleFamily,https://www.zillow.com/homedetails/1309-Warrington-Dr-Austin-TX-78753/29425881_zpid/
+1161,2206B Cedar Bend Dr,78758,,,3.0,2.0,1800.0,979.0, Townhouse,https://www.zillow.com/homedetails/2206B-Cedar-Bend-Dr-Austin-TX-78758/2100745591_zpid/
+1162,8710 Davis Oaks Trl,78748,,,3.0,2.5,2300.0,1418.0, SingleFamily,https://www.zillow.com/homedetails/8710-Davis-Oaks-Trl-Austin-TX-78748/70343211_zpid/
+1165,6901 Deborah Dr,78752,,,3.0,2.0,2500.0,1231.0, SingleFamily,https://www.zillow.com/homedetails/6901-Deborah-Dr-Austin-TX-78752/29414455_zpid/
+1166,1908 Melissa Oaks Ln,78744,,,3.0,2.0,2300.0,1600.0, SingleFamily,https://www.zillow.com/homedetails/1908-Melissa-Oaks-Ln-Austin-TX-78744/70343456_zpid/
+1168,12805 Staton Dr,78727,,,3.0,2.0,2290.0,1200.0, SingleFamily,https://www.zillow.com/homedetails/12805-Staton-Dr-Austin-TX-78727/29440963_zpid/
+1169,3009 Speedway APT 4,78705,,,2.0,1.0,1700.0,689.0, Apartment,https://www.zillow.com/homedetails/3009-Speedway-APT-4-Austin-TX-78705/70353634_zpid/
+1170,2704 Saint Edwards Cir #C,78704,,,1.0,1.0,2900.0,550.0, Apartment,https://www.zillow.com/homedetails/2704-Saint-Edwards-Cir-C-Austin-TX-78704/2064310242_zpid/
+1173,2714 Nueces St APT 207,78705,,,2.0,2.0,1550.0,700.0, Apartment,https://www.zillow.com/homedetails/2714-Nueces-St-APT-207-Austin-TX-78705/29395474_zpid/
+1176,3409 Etheredge Dr,78725,,,3.0,2.5,2349.0,1892.0, SingleFamily,https://www.zillow.com/homedetails/3409-Etheredge-Dr-Austin-TX-78725/64812856_zpid/
+1177,201 Ben Howell Dr,78704,,,3.0,2.0,3300.0,1176.0, SingleFamily,https://www.zillow.com/homedetails/201-Ben-Howell-Dr-Austin-TX-78704/63838289_zpid/
+1183,14603 Rumfeldt St,78725,,,3.0,2.0,1975.0,1381.0, SingleFamily,https://www.zillow.com/homedetails/14603-Rumfeldt-St-Austin-TX-78725/29461362_zpid/
+1184,2401 Shiloh Dr,78745,,,3.0,2.0,2850.0,1428.0, SingleFamily,https://www.zillow.com/homedetails/2401-Shiloh-Dr-Austin-TX-78745/29499039_zpid/
+1186,1404 Waterloo Trl #A,78704,,,2.0,2.0,2300.0,1280.0, Townhouse,https://www.zillow.com/homedetails/1404-Waterloo-Trl-A-Austin-TX-78704/2078703719_zpid/
+1188,8718 Ken Aaron Ct,78717,,,5.0,3.5,3850.0,4226.0, SingleFamily,https://www.zillow.com/homedetails/8718-Ken-Aaron-Ct-Austin-TX-78717/52832710_zpid/
+1194,2704 San Pedro St APT 2,78705,,,2.0,2.5,1850.0,1200.0, Townhouse,https://www.zillow.com/homedetails/2704-San-Pedro-St-APT-2-Austin-TX-78705/2094573069_zpid/
+1195,4901 Hawk Cv #A,78745,,,3.0,1.0,1590.0,916.0, Apartment,https://www.zillow.com/homedetails/4901-Hawk-Cv-A-Austin-TX-78745/2087746173_zpid/
+1196,8929 Galewood Dr #102,78758,,,1.0,1.0,900.0,700.0, Apartment,https://www.zillow.com/homedetails/8929-Galewood-Dr-102-Austin-TX-78758/2070827166_zpid/
+1200,3100 S 5th St #1,78704,,,3.0,4.0,6800.0,2471.0, SingleFamily,https://www.zillow.com/homedetails/3100-S-5th-St-1-Austin-TX-78704/2078069586_zpid/
+1201,1748 Ohlen Rd APT 76,78757,,,2.0,2.0,2100.0,1194.0, Apartment,https://www.zillow.com/homedetails/1748-Ohlen-Rd-APT-76-Austin-TX-78757/29426750_zpid/
+1205,8907 Trone Cir APT B,78758,,,3.0,3.0,2200.0,916.0, Townhouse,https://www.zillow.com/homedetails/8907-Trone-Cir-APT-B-Austin-TX-78758/29427558_zpid/
+1210,2204 Bettylou Ln,78754,,,3.0,2.0,2175.0,1550.0, SingleFamily,https://www.zillow.com/homedetails/2204-Bettylou-Ln-Austin-TX-78754/249890803_zpid/
+1212,3407 Caleb Dr,78725,,,3.0,2.5,1950.0,1919.0, SingleFamily,https://www.zillow.com/homedetails/3407-Caleb-Dr-Austin-TX-78725/63837774_zpid/
+1213,808 Winflo Dr APT 102,78703,,,1.0,1.0,1400.0,400.0, Apartment,https://www.zillow.com/homedetails/808-Winflo-Dr-APT-102-Austin-TX-78703/2108147219_zpid/
+1214,10801 Topperwein Dr #A,78758,,,2.0,1.0,1595.0,968.0, Townhouse,https://www.zillow.com/homedetails/10801-Topperwein-Dr-A-Austin-TX-78758/2088886467_zpid/
+1215,2903 Glendora Ct,78738,,,4.0,2.5,4000.0,2866.0, SingleFamily,https://www.zillow.com/homedetails/2903-Glendora-Ct-Austin-TX-78738/29340011_zpid/
+1216,4008 Eton Ln,78727,,,3.0,2.0,4250.0,1635.0, SingleFamily,https://www.zillow.com/homedetails/4008-Eton-Ln-Austin-TX-78727/58306034_zpid/
+1217,4600 Cedar Point Dr,78723,,,3.0,2.0,3300.0,1550.0, SingleFamily,https://www.zillow.com/homedetails/4600-Cedar-Point-Dr-Austin-TX-78723/64426758_zpid/
+1218,3511 Wendel Cv #D-7,78731,,,2.0,2.5,2320.0,1176.0, Townhouse,https://www.zillow.com/homedetails/3511-Wendel-Cv-D-7-Austin-TX-78731/62604917_zpid/
+1219,7312 Rimcrest Cv #A-9,78735,,,4.0,3.0,3510.0,2654.0, Apartment,https://www.zillow.com/homedetails/7312-Rimcrest-Cv-A-9-Austin-TX-78735/110539785_zpid/
+1221,2308 Cedrick Cv APT A,78748,,,2.0,1.0,1600.0,800.0, Apartment,https://www.zillow.com/homedetails/2308-Cedrick-Cv-APT-A-Austin-TX-78748/2106887696_zpid/
+1222,11113 Night Camp Dr,78754,,,3.0,2.0,2150.0,1704.0, SingleFamily,https://www.zillow.com/homedetails/11113-Night-Camp-Dr-Austin-TX-78754/249890973_zpid/
+1228,5308 Duval St #A,78751,,,4.0,2.5,3495.0,2400.0, Apartment,https://www.zillow.com/homedetails/5308-Duval-St-A-Austin-TX-78751/2091790495_zpid/
+1229,2901 Oak Park Dr,78704,,,4.0,2.0,5995.0,2000.0, SingleFamily,https://www.zillow.com/homedetails/2901-Oak-Park-Dr-Austin-TX-78704/29472222_zpid/
+1232,4011 Travis Country Cir,78735,,,3.0,2.0,3500.0,2078.0, SingleFamily,https://www.zillow.com/homedetails/4011-Travis-Country-Cir-Austin-TX-78735/29323398_zpid/
+1233,5617 Kennedy St,78747,,,3.0,2.0,2000.0,1300.0, SingleFamily,https://www.zillow.com/homedetails/5617-Kennedy-St-Austin-TX-78747/2066801489_zpid/
+1234,8806 Clearbrook Trl #B,78729,,,2.0,2.0,1600.0,985.0, Townhouse,https://www.zillow.com/homedetails/8806-Clearbrook-Trl-B-Austin-TX-78729/2116502015_zpid/
+1235,611 Franklin Blvd #B,78751,,,4.0,3.0,3395.0,1630.0, Apartment,https://www.zillow.com/homedetails/611-Franklin-Blvd-B-Austin-TX-78751/2089547796_zpid/
+1236,1122 Gunter St #1/2-A,78702,,,3.0,2.5,6500.0,1853.0, Apartment,https://www.zillow.com/homedetails/1122-Gunter-St-1-2-A-Austin-TX-78702/2070352743_zpid/
+1238,1203 E 2nd St #B,78702,,,3.0,2.5,4300.0,1637.0, Apartment,https://www.zillow.com/homedetails/1203-E-2nd-St-B-Austin-TX-78702/89549727_zpid/
+1239,10113 Wind Cave Trl,78747,,,3.0,2.0,2250.0,1763.0, SingleFamily,https://www.zillow.com/homedetails/10113-Wind-Cave-Trl-Austin-TX-78747/70343680_zpid/
+1240,4707-A Leslie Ave,78721,,,3.0,2.5,3150.0,1661.0, SingleFamily,https://www.zillow.com/homedetails/4707-A-Leslie-Ave-Austin-TX-78721/2089298225_zpid/
+1241,11102 Soules Ln,78748,,,4.0,3.0,2995.0,2585.0, SingleFamily,https://www.zillow.com/homedetails/11102-Soules-Ln-Austin-TX-78748/2066471247_zpid/
+1242,4510 Abelia Dr,78727,,,3.0,2.0,2295.0,1401.0, SingleFamily,https://www.zillow.com/homedetails/4510-Abelia-Dr-Austin-TX-78727/58306990_zpid/
+1243,5303 Aurora Dr,78756,,,3.0,2.0,3650.0,1325.0, SingleFamily,https://www.zillow.com/homedetails/5303-Aurora-Dr-Austin-TX-78756/29411664_zpid/
+1244,9801 Murmuring Creek Dr,78736,,,4.0,3.0,3150.0,2092.0, SingleFamily,https://www.zillow.com/homedetails/9801-Murmuring-Creek-Dr-Austin-TX-78736/29474438_zpid/
+1246,2205 Sl Davis Ave UNIT 2,78702,,,2.0,2.5,3500.0,1200.0, Townhouse,https://www.zillow.com/homedetails/2205-Sl-Davis-Ave-UNIT-2-Austin-TX-78702/2074557063_zpid/
+1249,501 W Annie St,78704,,,1.0,1.0,2000.0,440.0, SingleFamily,https://www.zillow.com/homedetails/501-W-Annie-St-Austin-TX-78704/2064158872_zpid/
+1251,5100 Bantom Woods Bend,78724,,,4.0,2.5,2300.0,2280.0, SingleFamily,https://www.zillow.com/homedetails/5100-Bantom-Woods-Bnd-Austin-TX-78724/80105509_zpid/
+1253,200 Congress Ave BUILDING 12,78701,,,1.0,1.5,6450.0,1295.0, Apartment,https://www.zillow.com/homedetails/200-Congress-Ave-BUILDING-12-Austin-TX-78701/2064297452_zpid/
+1254,1112 W Oltorf St,78704,,,3.0,1.0,3650.0,1000.0, SingleFamily,https://www.zillow.com/homedetails/1112-W-Oltorf-St-Austin-TX-78704/29473422_zpid/
+1258,105 Conservation Dr,78717,,,3.0,2.5,2195.0,1710.0, Townhouse,https://www.zillow.com/homedetails/105-Conservation-Dr-Austin-TX-78717/337163644_zpid/
+1263,2611 Diaz St,78702,,,4.0,3.0,5700.0,2281.0, SingleFamily,https://www.zillow.com/homedetails/2611-Diaz-St-Austin-TX-78702/29384081_zpid/
+1264,603 Westbrook Dr,78746,,,3.0,2.5,3950.0,2254.0, SingleFamily,https://www.zillow.com/homedetails/603-Westbrook-Dr-Austin-TX-78746/29330483_zpid/
+1266,4804 Philco Dr,78745,,,2.0,1.0,2345.0,948.0, SingleFamily,https://www.zillow.com/homedetails/4804-Philco-Dr-Austin-TX-78745/29479948_zpid/
+1267,5615 Shoal Creek Blvd,78756,,,4.0,2.0,4600.0,2007.0, SingleFamily,https://www.zillow.com/homedetails/5615-Shoal-Creek-Blvd-Austin-TX-78756/29414028_zpid/
+1271,1915 Pasadena Dr,78757,,,3.0,2.0,4555.0,1877.0, SingleFamily,https://www.zillow.com/homedetails/1915-Pasadena-Dr-Austin-TX-78757/29420539_zpid/
+1272,8517 Fathom Cir #A,78750,,,3.0,2.5,1700.0,1600.0, Townhouse,https://www.zillow.com/homedetails/8517-Fathom-Cir-A-Austin-TX-78750/2079794503_zpid/
+1274,11034 Galleria Cv,78759,,,4.0,2.5,4450.0,3067.0, SingleFamily,https://www.zillow.com/homedetails/11034-Galleria-Cv-Austin-TX-78759/29366170_zpid/
+1275,8406 Garcreek Cir APT D,78724,,,2.0,1.5,1095.0,992.0, MultiFamily,https://www.zillow.com/homedetails/8406-Garcreek-Cir-APT-D-Austin-TX-78724/2105773365_zpid/
+1278,(Undisclosed Address),78757,,,2.0,1.0,1850.0,833.0, Apartment,https://www.zillow.com/homedetails/Austin-TX-78757/2081017208_zpid/
+1284,15013 Haley Hollow,78728,,,3.0,2.0,2300.0,1744.0, SingleFamily,https://www.zillow.com/homedetails/15013-Haley-Holw-Austin-TX-78728/29451559_zpid/
+1286,2814 Nueces St APT 208,78705,,,1.0,1.0,1425.0,450.0, Apartment,https://www.zillow.com/homedetails/2814-Nueces-St-APT-208-Austin-TX-78705/2071026642_zpid/
+1292,301 Highland Horizon,78717,,,3.0,2.0,2750.0,1778.0, SingleFamily,https://www.zillow.com/homedetails/301-Highland-Horizon-Austin-TX-78717/89659635_zpid/
+1294,9302 San Juan Pass,78737,,,3.0,2.0,3195.0,2024.0, SingleFamily,https://www.zillow.com/homedetails/9302-San-Juan-Pass-Austin-TX-78737/29487586_zpid/
+1297,304 John Nance Garner Cir UNIT 2,78753,,,3.0,1.0,1875.0,1219.0, Apartment,https://www.zillow.com/homedetails/304-John-Nance-Garner-Cir-UNIT-2-Austin-TX-78753/2066392104_zpid/
+1298,12713 Machete Trl,78729,,,4.0,2.0,3000.0,2414.0, SingleFamily,https://www.zillow.com/homedetails/12713-Machete-Trl-Austin-TX-78729/29596348_zpid/
+1299,1403 Larkwood Dr,78723,,,3.0,2.0,3995.0,1800.0, SingleFamily,https://www.zillow.com/homedetails/1403-Larkwood-Dr-Austin-TX-78723/29406902_zpid/
+1300,2104 Pompton Dr,78757,,,2.0,1.0,1650.0,950.0, Apartment,https://www.zillow.com/homedetails/2104-Pompton-Dr-Austin-TX-78757/29423156_zpid/
+1301,2500 Steck Ave APT 7,78757,,,1.0,1.0,1600.0,680.0, Apartment,https://www.zillow.com/homedetails/2500-Steck-Ave-APT-7-Austin-TX-78757/70348522_zpid/
+1304,8303 Bradford Edward Cv #A,78759,,,2.0,2.5,2200.0,1273.0, Townhouse,https://www.zillow.com/homedetails/8303-Bradford-Edward-Cv-A-Austin-TX-78759/2079419704_zpid/
+1305,(Undisclosed Address),78742,,,2.0,2.5,2900.0,995.0, Apartment,https://www.zillow.com/homedetails/Austin-TX-78742/144986570_zpid/
+1306,1904 Anita Dr #A,78704,,,2.0,1.0,3600.0,900.0, Apartment,https://www.zillow.com/homedetails/1904-Anita-Dr-A-Austin-TX-78704/2112999935_zpid/
+1307,1403 Sahara Ave,78745,,,3.0,2.0,2250.0,1400.0, SingleFamily,https://www.zillow.com/homedetails/1403-Sahara-Ave-Austin-TX-78745/29489841_zpid/
+1308,3601 Las Colinas Dr APT D,78731,,,2.0,2.5,2490.0,1312.0, Townhouse,https://www.zillow.com/homedetails/3601-Las-Colinas-Dr-APT-D-Austin-TX-78731/60136373_zpid/
+1310,2804 S 1st St #2105,78704,,,3.0,2.0,3995.0,1768.0, Townhouse,https://www.zillow.com/homedetails/2804-S-1st-St-2105-Austin-TX-78704/305433785_zpid/
+1311,6007 Fairway St #A,78741,,,1.0,1.0,1350.0,650.0, MultiFamily,https://www.zillow.com/homedetails/6007-Fairway-St-A-Austin-TX-78741/2132067076_zpid/
+1312,11420 Milano Dr,78747,,,3.0,2.0,2400.0,1472.0, SingleFamily,https://www.zillow.com/homedetails/11420-Milano-Dr-Austin-TX-78747/331624451_zpid/
+1318,6803 Blue Dawn Trl #B,78744,,,2.0,1.0,1790.0,892.0, Apartment,https://www.zillow.com/homedetails/6803-Blue-Dawn-Trl-B-Austin-TX-78744/2131921701_zpid/
+1320,2210 Willow St,78702,,,2.0,1.0,2500.0,996.0, SingleFamily,https://www.zillow.com/homedetails/2210-Willow-St-Austin-TX-78702/29382382_zpid/
+1324,7109 Tesoro Trl,78729,,,3.0,2.0,2600.0,1828.0, SingleFamily,https://www.zillow.com/homedetails/7109-Tesoro-Trl-Austin-TX-78729/29574800_zpid/
+1325,3405 Pennsylvania Ave UNIT B,78721,,,3.0,3.0,5000.0,1377.0, Apartment,https://www.zillow.com/homedetails/3405-Pennsylvania-Ave-UNIT-B-Austin-TX-78721/331626547_zpid/
+1326,2800 Alsatia Dr,78748,,,3.0,2.0,3250.0,2192.0, SingleFamily,https://www.zillow.com/homedetails/2800-Alsatia-Dr-Austin-TX-78748/70335304_zpid/
+1327,2402 Riddle Rd #A,78748,,,3.0,2.5,1595.0,1100.0, Townhouse,https://www.zillow.com/homedetails/2402-Riddle-Rd-A-Austin-TX-78748/2070791268_zpid/
+1330,3607 Marcae Ct #A,78704,,,3.0,3.0,7000.0,1793.0, SingleFamily,https://www.zillow.com/homedetails/3607-Marcae-Ct-A-Austin-TX-78704/119618532_zpid/
+1332,40 N Interstate Highway 35 Highway #PB4,78701,,,2.0,2.0,3800.0,1459.0, Condo,https://www.zillow.com/homedetails/40-N-Interstate-Highway-35-Hwy-PB4-Austin-TX-78701/2065677353_zpid/
+1334,13409 Brahmin Dr,78724,,,3.0,2.0,2050.0,1650.0, SingleFamily,https://www.zillow.com/homedetails/13409-Brahmin-Dr-Austin-TX-78724/251031670_zpid/
+1336,1909 Cleese Dr,78741,,,3.0,3.0,3000.0,1651.0, Apartment,https://www.zillow.com/homedetails/1909-Cleese-Dr-Austin-TX-78741/2063504343_zpid/
+1337,5000 Springdale Rd,78723,,,1.0,1.0,1735.0,700.0, Apartment,https://www.zillow.com/homedetails/5000-Springdale-Rd-Austin-TX-78723/2064177530_zpid/
+1338,2001 Faro Dr APT 39,78741,,,3.0,2.5,2500.0,1532.0, Apartment,https://www.zillow.com/homedetails/2001-Faro-Dr-APT-39-Austin-TX-78741/119623790_zpid/
